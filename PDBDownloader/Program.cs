@@ -1,4 +1,6 @@
 ﻿using Newtonsoft.Json;
+using PDBDownloader.Models;
+using PDBDownloader.Controllers;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -25,7 +27,7 @@ namespace PDBDownloader
         {
             Console.WriteLine("How many file do you want to try (Recommanded 50) : ");
             string nbRow = Console.ReadLine();
-            file = new ManageFile<ResultItem>(Path.Combine(Program.filePath, "Output.json"));
+            file = new ManageFile<ResultItem>(Path.Combine(Program.filePath, ConfigurationManager.AppSettings["outFileName"] + ".json"));
             Program.fileLists = new List<ResultItem>();
             client = new HttpClient(new HttpClientHandler { UseDefaultCredentials = false });
             await GetBaseData(0, int.Parse(nbRow), int.Parse(nbRow));
@@ -82,7 +84,6 @@ namespace PDBDownloader
                 int newNbRow = Math.Min(nbRow, remainingNouveauxObjets);
                 await GetBaseData(newStart, newNbRow, remainingNouveauxObjets);
             }
-
         }
 
         static async Task<ResultItem> GetClashScore(ResultItem file)
@@ -105,8 +106,8 @@ namespace PDBDownloader
                     file.clashscore = double.Parse(clashscore.Trim().Replace('.', ','));
             }
             return file;
-
         }
+
         static async Task<ResultItem> GetMacroMole(ResultItem file)
         {
             string apiUrl = "https://data.rcsb.org/rest/v1/core/entry/" + file.filename;
@@ -145,11 +146,12 @@ namespace PDBDownloader
 
         static void KeepBestData()
         {
-            if (File.Exists(Program.filePath + "Best.json"))
+            string bestFileName = Program.filePath + ConfigurationManager.AppSettings["bestFileName"] + ".json";
+            if (File.Exists(bestFileName))
             {
-                File.Delete(Program.filePath + "Best.json");
+                File.Delete(bestFileName);
             }
-            ManageFile<ResultItem> bestFile = new ManageFile<ResultItem>(Program.filePath + "Best.json");
+            ManageFile<ResultItem> bestFile = new ManageFile<ResultItem>(bestFileName);
             List<string> alreadyChecked = new List<string>();
             List<ResultItem> toCompare = new List<ResultItem>();
             List<ResultItem> bestFileList = new List<ResultItem>();
@@ -211,95 +213,6 @@ namespace PDBDownloader
             catch (Exception ex)
             {
                 return "Error : " + ex.Message;
-            }
-        }
-
-        class Response
-        {
-            public List<ResponseItem> result_set { get; set; }
-        }
-
-        class ResponseItem
-        {
-            public string identifier { get; set; }
-            public double score { get; set; }
-        }
-
-        class ResultItem
-        {
-            public string filename { get; set; }
-            public double clashscore { get; set; }
-            public string struct_pdbx_descriptors { get; set; }
-            public string method { get; set; }
-        }
-
-        class ManageFile<T>
-        {
-            private string fileName;
-
-            public ManageFile(string fileName)
-            {
-                this.fileName = fileName;
-                this.CreateFile();
-            }
-
-            public void WriteObjects(List<T> objets)
-            {
-                string contenuFichier = File.ReadAllText(this.fileName);
-                List<T> objetsExistant = JsonConvert.DeserializeObject<List<T>>(contenuFichier);
-                objetsExistant.AddRange(objets);
-                string json = JsonConvert.SerializeObject(objetsExistant, Newtonsoft.Json.Formatting.Indented);
-                File.WriteAllText(this.fileName, json);
-            }
-
-            public List<T> FindObjects()
-            {
-                string json = File.ReadAllText(this.fileName);
-                return JsonConvert.DeserializeObject<List<T>>(json);
-            }
-
-            public T FindObject(Func<T, bool> condition)
-            {
-                List<T> objets = FindObjects();
-
-                foreach (T objet in objets)
-                {
-                    if (condition(objet))
-                    {
-                        return objet;
-                    }
-                }
-
-                return default(T);
-            }
-
-            public List<T> FindObjectsByCondition(Func<T, bool> condition)
-            {
-                List<T> objets = FindObjects();
-                List<T> res = new List<T>();
-
-                foreach (T objet in objets)
-                {
-                    if (condition(objet))
-                    {
-                        res.Add(objet);
-                    }
-                }
-
-                return res;
-            }
-
-            public void CreateFile()
-            {
-                if (!File.Exists(this.fileName))
-                {
-                    File.Create(this.fileName).Close();
-                    string json = JsonConvert.SerializeObject(new List<T>(), Newtonsoft.Json.Formatting.Indented);
-                    using (StreamWriter writer = new StreamWriter(fileName, false))
-                    {
-                        writer.WriteLine(json);
-                    }
-                }
             }
         }
     }
