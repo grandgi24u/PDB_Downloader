@@ -13,6 +13,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
+using System.Data.SqlClient;
 
 namespace PDBDownloader
 {
@@ -21,25 +22,57 @@ namespace PDBDownloader
         static string filePath = ConfigurationManager.AppSettings["outDir"];
         static List<ResultItem> fileLists;
         static ManageFile<ResultItem> file;
-        static HttpClient client;
+        static HttpClient client = new HttpClient(new HttpClientHandler { UseDefaultCredentials = false });
+        static bool useSql = bool.Parse(ConfigurationManager.AppSettings["useSql"]);
+        static SqlConnection conn;
 
         static async Task Main(string[] args)
         {
-            Console.WriteLine("How many file do you want to try (Recommanded 50) : ");
-            string nbRow = Console.ReadLine();
-            file = new ManageFile<ResultItem>(Path.Combine(Program.filePath, ConfigurationManager.AppSettings["outFileName"] + ".json"));
-            Program.fileLists = new List<ResultItem>();
-            client = new HttpClient(new HttpClientHandler { UseDefaultCredentials = false });
-            await GetBaseData(0, int.Parse(nbRow), int.Parse(nbRow));
-            Program.file.WriteObjects(Program.fileLists);
-            Console.WriteLine("\nDo you want to generate the file of best file ? (y/n)");
-            nbRow = Console.ReadLine().ToLower().Trim();
-            if (nbRow == "y")
+            string nbRow = ConfigurationManager.AppSettings["numberToCheck"];
+            PrintParam();
+            if (useSql)
             {
-                KeepBestData();
+                Program.conn = new SqlConnection(ConfigurationManager.AppSettings["sqlConnection"]);
+                Program.conn.Open();
+                await GetBaseDataForSQL(0, int.Parse(nbRow), int.Parse(nbRow));
+                Program.conn.Close();
+            }
+            else
+            {
+                Console.WriteLine("\nStarting process please wait.");
+                file = new ManageFile<ResultItem>(Path.Combine(Program.filePath, ConfigurationManager.AppSettings["outFileName"] + ".json"));
+                Program.fileLists = new List<ResultItem>();
+                await GetBaseData(0, int.Parse(nbRow), int.Parse(nbRow));
+                Program.file.WriteObjects(Program.fileLists);
+                Console.WriteLine("\nDo you want to generate the file of best file ? (y/n)");
+                nbRow = Console.ReadLine().ToLower().Trim();
+                if (nbRow == "y")
+                {
+                    KeepBestData();
+                }
             }
             Console.WriteLine("\nFinish !");
             Console.ReadLine();
+        }
+
+        static async Task GetBaseDataForSQL(int start, int nbRow, int totalNouveauxObjets)
+        {
+            string apiUrl = ParseUrl(start, nbRow);
+            var responseString = await client.GetStringAsync(apiUrl);
+            var response = JsonConvert.DeserializeObject<Response>(responseString);
+            SqlCommand command = conn.CreateCommand();
+            foreach (ResponseItem item in response.result_set)
+            {
+                var workon = new ResultItem
+                {
+                    filename = item.identifier
+                };
+                await GetClashScore(workon);
+                await GetMacroMole(workon);
+                command.CommandText = "INSERT INTO Files (filename, clashscore, struct_pdbx_descriptors, method) VALUES " +
+                    "('" + workon.filename + "'," + workon.clashscore.ToString().Replace(',', '.') + ",'" + workon.struct_pdbx_descriptors.Replace("'", "") + "','" + workon.method + "')";
+                command.ExecuteNonQuery();
+            }
         }
 
         static async Task GetBaseData(int start, int nbRow, int totalNouveauxObjets)
@@ -213,6 +246,22 @@ namespace PDBDownloader
             catch (Exception ex)
             {
                 return "Error : " + ex.Message;
+            }
+        }
+
+        static void PrintParam()
+        {
+            Console.WriteLine("Program PDBDownload developped by Clément GRANDGIRARD");
+            Console.WriteLine("\nActual parameter (can be change in App.config) :");
+            Console.WriteLine("\n   Number of file to check : " + ConfigurationManager.AppSettings["numberToCheck"]);
+            Console.WriteLine("   Use a SQL server database : " + Program.useSql);
+            if (useSql)
+            {
+                Console.WriteLine("   SQL server link : " + ConfigurationManager.AppSettings["sqlConnection"]);
+            }
+            else
+            {
+                Console.WriteLine("   File output folder : " + ConfigurationManager.AppSettings["outDir"]);
             }
         }
     }
