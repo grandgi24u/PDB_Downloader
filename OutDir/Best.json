@@ -1,0 +1,206 @@
+[
+  {
+    "filename": "100D",
+    "clashscore": 4.46,
+    "struct_pdbx_descriptors": "5'-R(*CP*)-D(*CP*GP*GP*CP*GP*CP*CP*GP*)-R(*G)-3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "101D",
+    "clashscore": 17.22,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*GP*AP*AP*TP*TP*(CBR)P*GP*CP*G)-3', NETROPSIN, RE-REFINEMENT",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "106M",
+    "clashscore": 7.0,
+    "struct_pdbx_descriptors": "OXYGEN TRANSPORT",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "102L",
+    "clashscore": 6.44,
+    "struct_pdbx_descriptors": "LYSOZYME INSERTION MUTANT WITH ALA INSERTED AFTER ASN 40, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (INS(N40-A), C54T,C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "102D",
+    "clashscore": 2.49,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*AP*AP*AP*TP*TP*TP*GP*CP*G)-3', PROPAMIDINE",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "103L",
+    "clashscore": 15.16,
+    "struct_pdbx_descriptors": "PHAGE T4 LYSOZYME INSERTION MUTANT WITH SER, LEU, AND ASP INSERTED AFTER ASN 40, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA, (INS(N40-SLD),C54T,C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "104D",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "DNA-RNA HYBRID",
+    "method": "SOLUTION NMR"
+  },
+  {
+    "filename": "103D",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "DNA",
+    "method": "SOLUTION NMR"
+  },
+  {
+    "filename": "104M",
+    "clashscore": 7.84,
+    "struct_pdbx_descriptors": "MYOGLOBIN, PROTOPORPHYRIN IX CONTAINING FE, N-BUTYL ISOCYANIDE",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "107L",
+    "clashscore": 6.09,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY GLY, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44G,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "104L",
+    "clashscore": 65.56,
+    "struct_pdbx_descriptors": "LYSOZYME INSERTION MUTANT WITH ALA, ALA INSERTED AFTER SER 44, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (INS(S44-AA),C54T,C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "109L",
+    "clashscore": 7.57,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY LYS, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44K,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "108L",
+    "clashscore": 6.44,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY ILE, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44I,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "109D",
+    "clashscore": 6.2,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*GP*AP*AP*TP*TP*CP*GP*CP*G)-3', 5-(2-IMIDAZOLINYL)-2[2-(4-HYDROXYPHENYL)-5-BENZIMIDAZOLYL] BENZIMIDAZOLE",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "10GS",
+    "clashscore": 5.97,
+    "struct_pdbx_descriptors": "GLUTATHIONE S-TRANSFERASE P1-1, 2-(N-MORPHOLINO)-ETHANESULFONIC ACID",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "110D",
+    "clashscore": 3.94,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*GP*CP*CP*G)-3', DAUNOMYCIN",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "111L",
+    "clashscore": 9.56,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY ASN, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44N,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "112D",
+    "clashscore": 10.5,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*GP*AP*AP*TP*TP*AP*GP*CP*G)-3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "113L",
+    "clashscore": 3.78,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY ARG, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44R,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "10MH",
+    "clashscore": 4.33,
+    "struct_pdbx_descriptors": "CYTOSINE-SPECIFIC METHYLTRANSFERASE HHAI/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "110L",
+    "clashscore": 5.68,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY LEU, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44L,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "111D",
+    "clashscore": 18.37,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*AP*AP*AP*TP*TP*GP*GP*CP*G)-3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "115L",
+    "clashscore": 5.31,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY VAL, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44V,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "114L",
+    "clashscore": 2.66,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY THR, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44T,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "112L",
+    "clashscore": 6.07,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH SER 44 REPLACED BY PRO, CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA (S44P,C54T, C97A)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "113D",
+    "clashscore": 15.75,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*GP*AP*AP*TP*TP*TP*GP*CP*G)-3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "114D",
+    "clashscore": 23.75,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*IP*AP*AP*TP*TP*AP*GP*CP*G)-3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "115D",
+    "clashscore": 4.05,
+    "struct_pdbx_descriptors": "5'-D(*GP*GP*(BRU)P*AP*(BRU)P*AP*CP*C)-3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "116D",
+    "clashscore": 13.19,
+    "struct_pdbx_descriptors": "5'-D(*CP*CP*GP*TP*AP*CP*GP*TP*AP*CP*GP*G)-3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "117E",
+    "clashscore": 8.01,
+    "struct_pdbx_descriptors": "HYDROLASE",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "119D",
+    "clashscore": 17.08,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*TP*AP*GP*AP*TP*CP*TP*AP*CP*G)- 3'",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "118L",
+    "clashscore": 5.7,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA, ALA 130 REPLACED BY SER (C54T,C97A, A130S)",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "11AS",
+    "clashscore": 19.84,
+    "struct_pdbx_descriptors": "LIGASE",
+    "method": "X-RAY DIFFRACTION"
+  },
+  {
+    "filename": "119L",
+    "clashscore": 4.94,
+    "struct_pdbx_descriptors": "LYSOZYME (E.C.3.2.1.17) MUTANT WITH CYS 54 REPLACED BY THR, CYS 97 REPLACED BY ALA, ALA 134 REPLACED BY SER (C54T,C97A, A134S)",
+    "method": "X-RAY DIFFRACTION"
+  }
+]
