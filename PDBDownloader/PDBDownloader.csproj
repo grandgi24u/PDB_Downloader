@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\ManageFile.cs" />
+    <Compile Include="Models\Atom.cs" />
     <Compile Include="Models\Response.cs" />
     <Compile Include="Models\ResponseItem.cs" />
     <Compile Include="Models\ResultItem.cs" />
