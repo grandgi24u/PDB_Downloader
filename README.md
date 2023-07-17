@@ -18,6 +18,9 @@ In file mode, the software utilizes files for processing. It performs the follow
 4. Continues making API requests until it has added the desired number of new files to its dataset.
 5. Retrieves the clashscore for each file by making requests to the API at [link to api](https://files.rcsb.org/pub/pdb/validation_reports/).
 6. Obtains the name of the molecule associated with each file from the API at [link to api](https://data.rcsb.org/rest/v1/core/entry/).
+7. Create a best file.
+8. Keep the best clashcore (<) depend on the name of the molecule.
+9. Download all files in the best file.
 
 ### Database Mode
 
