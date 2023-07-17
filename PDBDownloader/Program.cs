@@ -223,13 +223,13 @@ namespace PDBDownloader
             ManageFile<ResultItem> bestFile = new ManageFile<ResultItem>(bestFileName);
             foreach (ResultItem item in bestFile.FindObjects())
             {
-                string outputDir = Program.filePath + item.filename + ".cif";
+                string outputDir = ConfigurationManager.AppSettings["outDirForDownload"] + item.filename + ".mmcif";
                 string apiUrl = "https://files.rcsb.org/download/" + item.filename + ".cif";
                 HttpResponseMessage response = await client.GetAsync(apiUrl);
                 response.EnsureSuccessStatusCode();
                 byte[] fileContent = await response.Content.ReadAsByteArrayAsync();
                 File.WriteAllBytes(outputDir, fileContent);
-                Console.WriteLine("Download with success : " + item.filename + ".cif");
+                Console.WriteLine("Download with success : " + item.filename + ".mmcif");
             }
             
         }
@@ -401,6 +401,7 @@ namespace PDBDownloader
             else
             {
                 Console.WriteLine("   File output folder : " + ConfigurationManager.AppSettings["outDir"]);
+                Console.WriteLine("   Downloaded file output folder : " + ConfigurationManager.AppSettings["outDirForDownload"]);
             }
         }
     }
