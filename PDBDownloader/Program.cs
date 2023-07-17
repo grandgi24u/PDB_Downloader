@@ -149,12 +149,21 @@ namespace PDBDownloader
             Program.fileLists = new List<ResultItem>();
             await GetBaseData(0, int.Parse(nbRow), int.Parse(nbRow));
             Program.file.WriteObjects(Program.fileLists);
-            Console.WriteLine("\nDo you want to generate the file of best file ? (y/n)");
+            Console.WriteLine("\nDo you want to generate the file of best file (required to download) ? (y/n)");
             nbRow = Console.ReadLine().ToLower().Trim();
             if (nbRow == "y")
             {
                 KeepBestData();
+                Console.WriteLine("\nDo you want to download all the files of best file ? (y/n)");
+                long res = GetFullSizeOfBest();
+                Console.WriteLine("! Warning ! It need " + res + " ko | " + (res/1024) + " Mo of free space !");
+                nbRow = Console.ReadLine().ToLower().Trim();
+                if (nbRow == "y")
+                {
+                    await DownloadFilesAsync();
+                }
             }
+
             return;
         }
 
@@ -172,10 +181,12 @@ namespace PDBDownloader
                 {
                     var workon = new ResultItem
                     {
-                        filename = item.identifier
+                        filename = item.identifier,
+                        size = 0
                     };
                     var clashScoreTask = GetClashScore(workon);
                     var macroMoleTask = GetMacroMole(workon);
+                    //var sizeTask = GetSizeOfFile(workon);
                     tasks.Add(Task.WhenAll(clashScoreTask, macroMoleTask).ContinueWith(_ =>
                     {
                         Program.fileLists.Add(workon);
@@ -202,15 +213,25 @@ namespace PDBDownloader
             }
         }
 
-        static async Task DownloadFileAsync(string name)
+        static async Task DownloadFilesAsync()
         {
-            string outputDir = Program.filePath + name + ".cif";
-            string apiUrl = "https://files.rcsb.org/download/" + name + ".cif";
-            HttpResponseMessage response = await client.GetAsync(apiUrl);
-            response.EnsureSuccessStatusCode();
-            byte[] fileContent = await response.Content.ReadAsByteArrayAsync();
-            File.WriteAllBytes(outputDir, fileContent);
-            Console.WriteLine("Download with success : " + name + ".cif");
+            string bestFileName = Program.filePath + ConfigurationManager.AppSettings["bestFileName"] + ".json";
+            if (!File.Exists(bestFileName))
+            {
+                return;
+            }
+            ManageFile<ResultItem> bestFile = new ManageFile<ResultItem>(bestFileName);
+            foreach (ResultItem item in bestFile.FindObjects())
+            {
+                string outputDir = Program.filePath + item.filename + ".cif";
+                string apiUrl = "https://files.rcsb.org/download/" + item.filename + ".cif";
+                HttpResponseMessage response = await client.GetAsync(apiUrl);
+                response.EnsureSuccessStatusCode();
+                byte[] fileContent = await response.Content.ReadAsByteArrayAsync();
+                File.WriteAllBytes(outputDir, fileContent);
+                Console.WriteLine("Download with success : " + item.filename + ".cif");
+            }
+            
         }
 
         static void KeepBestData()
@@ -303,6 +324,39 @@ namespace PDBDownloader
                 file.method = result["exptl"][0].method;
             }
             return file;
+        }
+
+        static async Task<ResultItem> GetSizeOfFile(ResultItem file)
+        {
+            string apiUrl = "https://files.rcsb.org/download/" + file.filename + ".cif";
+            HttpResponseMessage response = await client.GetAsync(apiUrl);
+            response.EnsureSuccessStatusCode();
+            if (response.Content.Headers.ContentLength.HasValue)
+            {
+                file.size = response.Content.Headers.ContentLength.Value / 1024;
+                return file;
+            }
+            else
+            {
+                throw new Exception("File size information not available.");
+            }
+        }
+
+        static long GetFullSizeOfBest()
+        {
+            string bestFileName = Program.filePath + ConfigurationManager.AppSettings["bestFileName"] + ".json";
+            if (!File.Exists(bestFileName))
+            {
+                return 0;
+            }
+            ManageFile<ResultItem> bestFile = new ManageFile<ResultItem>(bestFileName);
+            List<ResultItem> liRes = bestFile.FindObjects();
+            long res = 0;
+            foreach(ResultItem item in liRes)
+            {
+                res += item.size;
+            }
+            return res;
         }
 
         static string ParseUrl(int start, int nb_row)

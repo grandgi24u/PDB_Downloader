@@ -12,5 +12,6 @@ namespace PDBDownloader.Models
         public double clashscore { get; set; }
         public string struct_pdbx_descriptors { get; set; }
         public string method { get; set; }
+        public long size { get; set; }
     }
 }
