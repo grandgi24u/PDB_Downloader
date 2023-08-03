@@ -1106,10 +1106,10 @@
     "size": 0
   },
   {
-    "filename": "1A02",
-    "clashscore": 18.26,
+    "filename": "1C7U",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "TRANSCRIPTION/DNA",
-    "method": "X-RAY DIFFRACTION",
+    "method": "SOLUTION NMR",
     "size": 0
   },
   {
@@ -1120,8 +1120,8 @@
     "size": 0
   },
   {
-    "filename": "1A03",
-    "clashscore": 0.02,
+    "filename": "1CDN",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "CALCIUM-BINDING PROTEIN",
     "method": "SOLUTION NMR",
     "size": 0
@@ -1337,10 +1337,10 @@
     "size": 0
   },
   {
-    "filename": "1A19",
-    "clashscore": 21.28,
+    "filename": "1BTA",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "RIBONUCLEASE INHIBITOR",
-    "method": "X-RAY DIFFRACTION",
+    "method": "SOLUTION NMR",
     "size": 0
   },
   {
@@ -2037,8 +2037,8 @@
     "size": 0
   },
   {
-    "filename": "1A4Z",
-    "clashscore": 16.75,
+    "filename": "1BXS",
+    "clashscore": 7.68,
     "struct_pdbx_descriptors": "ALDEHYDE DEHYDROGENASE, NICOTINAMIDE-ADENINE-DINUCLEOTIDE",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -2205,8 +2205,8 @@
     "size": 0
   },
   {
-    "filename": "1A64",
-    "clashscore": 14.48,
+    "filename": "1CDC",
+    "clashscore": 8.54,
     "struct_pdbx_descriptors": "CD2",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -2240,8 +2240,8 @@
     "size": 0
   },
   {
-    "filename": "1A6B",
-    "clashscore": 3.56,
+    "filename": "1BJ6",
+    "clashscore": 1.52,
     "struct_pdbx_descriptors": "Viral protein/DNA",
     "method": "SOLUTION NMR",
     "size": 0
@@ -2261,8 +2261,8 @@
     "size": 0
   },
   {
-    "filename": "1AR7",
-    "clashscore": 3.34,
+    "filename": "1BMS",
+    "clashscore": 2.94,
     "struct_pdbx_descriptors": "VIRUS",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -2331,8 +2331,8 @@
     "size": 0
   },
   {
-    "filename": "1A6S",
-    "clashscore": 230.1,
+    "filename": "1BMX",
+    "clashscore": 3.69,
     "struct_pdbx_descriptors": "VIRAL PROTEIN",
     "method": "SOLUTION NMR",
     "size": 0
@@ -2359,8 +2359,8 @@
     "size": 0
   },
   {
-    "filename": "1A6V",
-    "clashscore": 21.06,
+    "filename": "1BWW",
+    "clashscore": 2.08,
     "struct_pdbx_descriptors": "IMMUNE SYSTEM",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -2457,15 +2457,15 @@
     "size": 0
   },
   {
-    "filename": "1A7G",
-    "clashscore": 18.0,
+    "filename": "1BY9",
+    "clashscore": 6.89,
     "struct_pdbx_descriptors": "REGULATORY PROTEIN E2",
     "method": "X-RAY DIFFRACTION",
     "size": 0
   },
   {
-    "filename": "1AI0",
-    "clashscore": 9.27,
+    "filename": "1BKU",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "HORMONE",
     "method": "SOLUTION NMR",
     "size": 0
@@ -2499,8 +2499,8 @@
     "size": 0
   },
   {
-    "filename": "1B1V",
-    "clashscore": 18.44,
+    "filename": "1BUY",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "CYTOKINE",
     "method": "SOLUTION NMR",
     "size": 0
@@ -2961,8 +2961,8 @@
     "size": 0
   },
   {
-    "filename": "1AA5",
-    "clashscore": 15.62,
+    "filename": "1C0Q",
+    "clashscore": 5.45,
     "struct_pdbx_descriptors": "VANCOMYCIN",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -2982,10 +2982,10 @@
     "size": 0
   },
   {
-    "filename": "1AZ5",
-    "clashscore": 4.08,
+    "filename": "1BVG",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "ASPARTYL PROTEASE",
-    "method": "X-RAY DIFFRACTION",
+    "method": "SOLUTION NMR",
     "size": 0
   },
   {
@@ -3227,8 +3227,8 @@
     "size": 0
   },
   {
-    "filename": "1B45",
-    "clashscore": 0.12,
+    "filename": "1C56",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "TOXIN",
     "method": "SOLUTION NMR",
     "size": 0
@@ -3647,8 +3647,8 @@
     "size": 0
   },
   {
-    "filename": "1AFH",
-    "clashscore": 31.98,
+    "filename": "1BV2",
+    "clashscore": 2.73,
     "struct_pdbx_descriptors": "LIPID BINDING PROTEIN",
     "method": "SOLUTION NMR",
     "size": 0
@@ -4417,8 +4417,8 @@
     "size": 0
   },
   {
-    "filename": "1AJM",
-    "clashscore": 18.93,
+    "filename": "1BQ2",
+    "clashscore": 5.43,
     "struct_pdbx_descriptors": "METHYLTRANSFERASE",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -5425,8 +5425,8 @@
     "size": 0
   },
   {
-    "filename": "1AP9",
-    "clashscore": 33.25,
+    "filename": "1BRX",
+    "clashscore": 26.69,
     "struct_pdbx_descriptors": "BACTERIORHODOPSIN, RETINAL",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -5768,8 +5768,8 @@
     "size": 0
   },
   {
-    "filename": "1AR5",
-    "clashscore": 8.15,
+    "filename": "1BT8",
+    "clashscore": 5.91,
     "struct_pdbx_descriptors": "SUPEROXIDE DISMUTASE",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -5880,8 +5880,8 @@
     "size": 0
   },
   {
-    "filename": "1ARP",
-    "clashscore": 7.25,
+    "filename": "1C8I",
+    "clashscore": 3.01,
     "struct_pdbx_descriptors": "PEROXIDASE (E.C.1.11.1.7)",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -7028,8 +7028,8 @@
     "size": 0
   },
   {
-    "filename": "1B4C",
-    "clashscore": 13.85,
+    "filename": "1C7W",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "METAL BINDING PROTEIN",
     "method": "SOLUTION NMR",
     "size": 0
@@ -7161,10 +7161,10 @@
     "size": 0
   },
   {
-    "filename": "1B1A",
-    "clashscore": 3.81,
+    "filename": "1CB7",
+    "clashscore": 2.9,
     "struct_pdbx_descriptors": "GLUTAMATE MUTASE",
-    "method": "SOLUTION NMR",
+    "method": "X-RAY DIFFRACTION",
     "size": 0
   },
   {
@@ -7189,8 +7189,8 @@
     "size": 0
   },
   {
-    "filename": "1B1X",
-    "clashscore": 15.62,
+    "filename": "1BLF",
+    "clashscore": 7.15,
     "struct_pdbx_descriptors": "LACTOFERRIN",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -7385,8 +7385,8 @@
     "size": 0
   },
   {
-    "filename": "1B3K",
-    "clashscore": 36.8,
+    "filename": "1C5Z",
+    "clashscore": 5.37,
     "struct_pdbx_descriptors": "BLOOD CLOTTING",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -7497,8 +7497,8 @@
     "size": 0
   },
   {
-    "filename": "1AUZ",
-    "clashscore": 140.67,
+    "filename": "1BUZ",
+    "clashscore": 138.89,
     "struct_pdbx_descriptors": "SPOIIAA",
     "method": "SOLUTION NMR",
     "size": 0
@@ -7714,10 +7714,10 @@
     "size": 0
   },
   {
-    "filename": "1B4I",
-    "clashscore": 37.27,
+    "filename": "1C8R",
+    "clashscore": 23.83,
     "struct_pdbx_descriptors": "PROTON TRANSPORT",
-    "method": "SOLUTION NMR",
+    "method": "X-RAY DIFFRACTION",
     "size": 0
   },
   {
@@ -7784,8 +7784,8 @@
     "size": 0
   },
   {
-    "filename": "1BE0",
-    "clashscore": 4.52,
+    "filename": "1BN7",
+    "clashscore": 2.36,
     "struct_pdbx_descriptors": "HALOALKANE DEHALOGENASE",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -7896,10 +7896,10 @@
     "size": 0
   },
   {
-    "filename": "1B7I",
-    "clashscore": 2.01,
+    "filename": "1C3Z",
+    "clashscore": 0.0,
     "struct_pdbx_descriptors": "ANTIFREEZE PROTEIN",
-    "method": "X-RAY DIFFRACTION",
+    "method": "SOLUTION NMR",
     "size": 0
   },
   {
@@ -7924,8 +7924,8 @@
     "size": 0
   },
   {
-    "filename": "1B7V",
-    "clashscore": 16.16,
+    "filename": "1C75",
+    "clashscore": 7.25,
     "struct_pdbx_descriptors": "CYTOCHROME C-553",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -7973,8 +7973,8 @@
     "size": 0
   },
   {
-    "filename": "1BEB",
-    "clashscore": 15.1,
+    "filename": "1BSY",
+    "clashscore": 3.85,
     "struct_pdbx_descriptors": "BETA-LACTOGLOBULIN",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -8302,8 +8302,8 @@
     "size": 0
   },
   {
-    "filename": "1BAW",
-    "clashscore": 5.49,
+    "filename": "1BXU",
+    "clashscore": 3.68,
     "struct_pdbx_descriptors": "PLASTOCYANIN",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -9450,8 +9450,8 @@
     "size": 0
   },
   {
-    "filename": "1BHL",
-    "clashscore": 11.32,
+    "filename": "1BIU",
+    "clashscore": 6.82,
     "struct_pdbx_descriptors": "DNA INTEGRATION",
     "method": "X-RAY DIFFRACTION",
     "size": 0
@@ -9821,8 +9821,8 @@
     "size": 0
   },
   {
-    "filename": "1BA4",
-    "clashscore": 6.02,
+    "filename": "1BJC",
+    "clashscore": 2.71,
     "struct_pdbx_descriptors": "GLYCOPROTEIN",
     "method": "SOLUTION NMR",
     "size": 0
@@ -9831,6 +9831,4073 @@
     "filename": "1B9W",
     "clashscore": 3.94,
     "struct_pdbx_descriptors": "MEROZOITE SURFACE PROTEIN 1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJ1",
+    "clashscore": 10.32,
+    "struct_pdbx_descriptors": "FAB FRAGMENT, VASCULAR ENDOTHELIAL GROWTH FACTOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJ3",
+    "clashscore": 26.13,
+    "struct_pdbx_descriptors": "COAGULATION FACTOR IX-BINDING PROTEIN A, COAGULATION FACTOR IX-BINDING PROTEIN B",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BIV",
+    "clashscore": 17.57,
+    "struct_pdbx_descriptors": "BOVINE IMMUNODEFICIENCY VIRUS TAT PEPTIDE/RNA Complex",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BJA",
+    "clashscore": 11.64,
+    "struct_pdbx_descriptors": "TRANSCRIPTION REGULATORY PROTEIN MOTA",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJ7",
+    "clashscore": 3.73,
+    "struct_pdbx_descriptors": "D 2",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJI",
+    "clashscore": 6.75,
+    "struct_pdbx_descriptors": "NEURAMINIDASE, 5-ACETYLAMINO-4-AMINO-6-(PHENETHYLPROPYLCARBAMOYL)5,6-DIHYDRO-4H-PYRAN-2-CARBOXYLIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BIX",
+    "clashscore": 4.99,
+    "struct_pdbx_descriptors": "AP ENDONUCLEASE 1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJF",
+    "clashscore": 11.82,
+    "struct_pdbx_descriptors": "NEUROCALCIN DELTA",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJ8",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "RECEPTOR",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BJ5",
+    "clashscore": 18.86,
+    "struct_pdbx_descriptors": "HUMAN SERUM ALBUMIN, MYRISTIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJJ",
+    "clashscore": 17.39,
+    "struct_pdbx_descriptors": "AGKISTRODOTOXIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJN",
+    "clashscore": 4.84,
+    "struct_pdbx_descriptors": "PHOSPHOSERINE AMINOTRANSFERASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJP",
+    "clashscore": 13.51,
+    "struct_pdbx_descriptors": "4-OXALOCROTONATE TAUTOMERASE, 2-OXO-3-PENTENOIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJM",
+    "clashscore": 46.59,
+    "struct_pdbx_descriptors": "LOC - LAMBDA 1 TYPE LIGHT-CHAIN DIMER",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJR",
+    "clashscore": 65.77,
+    "struct_pdbx_descriptors": "PROTEINASE K, LACTOFERRIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJO",
+    "clashscore": 5.12,
+    "struct_pdbx_descriptors": "PHOSPHOSERINE AMINOTRANSFERASE, PYRIDOXAL-5'-PHOSPHATE, ALPHA-METHYL-L-GLUTAMIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJU",
+    "clashscore": 4.59,
+    "struct_pdbx_descriptors": "BETA-TRYPSIN, 1-(4-AMIDINOPHENYL)-3-(4-CHLOROPHENYL)UREA, DIMETHYL SULFOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJZ",
+    "clashscore": 10.67,
+    "struct_pdbx_descriptors": "TETRACYCLINE REPRESSOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK1",
+    "clashscore": 3.44,
+    "struct_pdbx_descriptors": "ENDO-1,4-B-XYLANASE C",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJQ",
+    "clashscore": 12.75,
+    "struct_pdbx_descriptors": "LECTIN, ADENINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJV",
+    "clashscore": 5.2,
+    "struct_pdbx_descriptors": "BETA-TRYPSIN, DIMETHYL SULFOXIDE, 1-(2-AMIDINOPHENYL)-3-(PHENOXYPHENYL)UREA",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BJT",
+    "clashscore": 13.8,
+    "struct_pdbx_descriptors": "TOPOISOMERASE II",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK4",
+    "clashscore": 11.78,
+    "struct_pdbx_descriptors": "FRUCTOSE-1,6-BISPHOSPHATASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK6",
+    "clashscore": 15.22,
+    "struct_pdbx_descriptors": "KARYOPHERIN ALPHA, LARGE T ANTIGEN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK8",
+    "clashscore": 0.74,
+    "struct_pdbx_descriptors": "ANTIMICROBIAL PROTEIN 1",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BK2",
+    "clashscore": 5.35,
+    "struct_pdbx_descriptors": "SH3-DOMAIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK0",
+    "clashscore": 1.16,
+    "struct_pdbx_descriptors": "ISOPENICILLIN N SYNTHASE, L-D-(A-AMINOADIPOYL)-L-CYSTEINYL-D-VALINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK7",
+    "clashscore": 5.45,
+    "struct_pdbx_descriptors": "PROTEIN (RIBONULEASE MC1) (3.1.27.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK5",
+    "clashscore": 15.82,
+    "struct_pdbx_descriptors": "KARYOPHERIN ALPHA",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BK9",
+    "clashscore": 1.59,
+    "struct_pdbx_descriptors": "PHOSPHOLIPASE A2, 1-(4-BROMO-PHENYL)-ETHANONE, 1,4-BUTANEDIOL",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKC",
+    "clashscore": 14.73,
+    "struct_pdbx_descriptors": "ZN-ENDOPEPTIDASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKE",
+    "clashscore": 22.17,
+    "struct_pdbx_descriptors": "SERUM ALBUMIN, MYRISTIC ACID, 2,3,5-TRIIODOBENZOIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKB",
+    "clashscore": 17.87,
+    "struct_pdbx_descriptors": "TRANSLATION INITIATION FACTOR 5A",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKD",
+    "clashscore": 6.98,
+    "struct_pdbx_descriptors": "H-RAS, SON OF SEVENLESS-1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKL",
+    "clashscore": 6.92,
+    "struct_pdbx_descriptors": "PP60 V-SRC TYROSINE KINASE TRANSFORMING PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKH",
+    "clashscore": 8.68,
+    "struct_pdbx_descriptors": "MUCONATE LACTONIZING ENZYME",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKG",
+    "clashscore": 9.8,
+    "struct_pdbx_descriptors": "ASPARTATE AMINOTRANSFERASE, 4'-DEOXY-4'-AMINOPYRIDOXAL-5'-PHOSPHATE, MALEIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKM",
+    "clashscore": 8.32,
+    "struct_pdbx_descriptors": "PP60 V-SRC TYROSINE KINASE TRANSFORMING PROTEIN, [[O-PHOSPHONO-N-ACETYL-TYROSINYL]-GLUTAMYL-3[CYCLOHEXYLMETHYL]ALANINYL]-AMINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKJ",
+    "clashscore": 0.59,
+    "struct_pdbx_descriptors": "NADPH-FLAVIN OXIDOREDUCTASE, FLAVIN MONONUCLEOTIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKP",
+    "clashscore": 4.19,
+    "struct_pdbx_descriptors": "THYMIDYLATE SYNTHASE A",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKS",
+    "clashscore": 11.65,
+    "struct_pdbx_descriptors": "TRYPTOPHAN SYNTHASE, PYRIDOXAL-5'-PHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKR",
+    "clashscore": 8.76,
+    "struct_pdbx_descriptors": "SPECTRIN BETA CHAIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKV",
+    "clashscore": 10.68,
+    "struct_pdbx_descriptors": "T3-785",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKX",
+    "clashscore": 62.34,
+    "struct_pdbx_descriptors": "CAMP-DEPENDENT PROTEIN KINASE, ADENOSINE-5'-MONOPHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKY",
+    "clashscore": 9.84,
+    "struct_pdbx_descriptors": "VP39, S-ADENOSYL-L-HOMOCYSTEINE, 1-METHYLCYTOSINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BKZ",
+    "clashscore": 12.63,
+    "struct_pdbx_descriptors": "GALECTIN-7",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BL0",
+    "clashscore": 43.69,
+    "struct_pdbx_descriptors": "MULTIPLE ANTIBIOTIC RESISTANCE PROTEIN/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BL5",
+    "clashscore": 4.64,
+    "struct_pdbx_descriptors": "ISOCITRATE DEHYDROGENASE, 2-OXYGLUTARIC ACID, NADP NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BL7",
+    "clashscore": 13.49,
+    "struct_pdbx_descriptors": "PROTEIN (MAP KINASE P38) MUTANT (19 RESIDUES INSERTED AT N-TERMINUS)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BL9",
+    "clashscore": 8.24,
+    "struct_pdbx_descriptors": "NITRITE REDUCTASE, HEME C, HEME D",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLB",
+    "clashscore": 89.83,
+    "struct_pdbx_descriptors": "BETA B2 CRYSTALLIN TETRAMER",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BL1",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "HORMONE RECEPTOR",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BLE",
+    "clashscore": 12.72,
+    "struct_pdbx_descriptors": "FRUCTOSE PERMEASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLC",
+    "clashscore": 45.11,
+    "struct_pdbx_descriptors": "BETA-LACTAMASE, N-(1-CARBOXY-2-HYDROXY-4-OXO-BUTYL)-N-(3-OXO-CISPROPENYL)AMINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLH",
+    "clashscore": 22.13,
+    "struct_pdbx_descriptors": "BETA-LACTAMASE (E.C.3.5.2.6) COMPLEXED WITH [[N-(BENZYLOXYCARBONYL)AMINO]METHYL]PHOSPHONATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLJ",
+    "clashscore": 15.29,
+    "struct_pdbx_descriptors": "PHOSPHORYLATION",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BLL",
+    "clashscore": 11.61,
+    "struct_pdbx_descriptors": "LEUCINE AMINOPEPTIDASE (E.C.3.4.11.1) COMPLEX WITH AMASTATIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLN",
+    "clashscore": 15.44,
+    "struct_pdbx_descriptors": "PROTEIN (MONOCLONAL ANTIBODY MRK-16 (LIGHT AND HEAVY CHAINS))",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLP",
+    "clashscore": 31.1,
+    "struct_pdbx_descriptors": "BETA-LACTAMASE (E.C.3.5.2.6) P54 MUTANT WITH ASP 179 REPLACED BY ASN (D179N)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLZ",
+    "clashscore": 1.16,
+    "struct_pdbx_descriptors": "ISOPENICILLIN N SYNTHASE, L-D-(A-AMINOADIPOYL)-L-CYSTEINYL-D-VALINE, NITROGEN OXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLS",
+    "clashscore": 22.61,
+    "struct_pdbx_descriptors": "BETA-LACTAMASE (E.C.3.5.2.6) (CEPHALOSPORINASE) COMPLEXED WITH A PHOSPHONATE INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BM1",
+    "clashscore": 27.04,
+    "struct_pdbx_descriptors": "BACTERIORHODOPSIN, RETINAL, PHOSPHORIC ACID 2,3-BIS-(3,7,11,15-TETRAMETHYL-HEXADECYLOXY)-PROPYL ESTER 2-HYDROXO-3-PHOSPHONOOXY-PROPYL ESTER",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BM3",
+    "clashscore": 33.58,
+    "struct_pdbx_descriptors": "IMMUNOGLOBULIN OPG2 FAB CONSTANT AND VARIABLE DOMAIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLU",
+    "clashscore": 10.96,
+    "struct_pdbx_descriptors": "FERREDOXIN, IRON/SULFUR CLUSTER",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BM7",
+    "clashscore": 10.58,
+    "struct_pdbx_descriptors": "TRANSTHYRETIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BM9",
+    "clashscore": 6.54,
+    "struct_pdbx_descriptors": "REPLICATION TERMINATOR PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMB",
+    "clashscore": 1.68,
+    "struct_pdbx_descriptors": "GROWTH FACTOR RECEPTOR BOUND PROTEIN 2, PKF270-974",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BLX",
+    "clashscore": 10.85,
+    "struct_pdbx_descriptors": "CYCLIN-DEPENDENT KINASE 6, P19INK4D",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BM4",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "MOLONEY MURINE LEUKEMIA VIRUS CAPSID PROTEIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BM5",
+    "clashscore": 24.68,
+    "struct_pdbx_descriptors": "RETINOIC-ACID TRANSPORT",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BMD",
+    "clashscore": 13.66,
+    "struct_pdbx_descriptors": "MALATE DEHYDROGENASE (E.C.1.1.1.37) (BACTERIAL) COMPLEXED WITH NADH",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMG",
+    "clashscore": 12.31,
+    "struct_pdbx_descriptors": "BETA2-MICROGLOBULIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMN",
+    "clashscore": 18.44,
+    "struct_pdbx_descriptors": "ALPHA-THROMBIN, HIRUDIN I, [S-(R*,R*)]-1-(AMINOIMINOMETHYL)-N-[[1-[N-[(2-NAPHTHALENYLSULFONYL)-L-SERYL]-3-PYRROLIDINYL]METHYL]-3-PIPERIDENECARBOXAMIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMP",
+    "clashscore": 50.71,
+    "struct_pdbx_descriptors": "BONE MORPHOGENETIC PROTEIN-7",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BM8",
+    "clashscore": 12.25,
+    "struct_pdbx_descriptors": "TRANSCRIPTION FACTOR MBP1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BML",
+    "clashscore": 41.03,
+    "struct_pdbx_descriptors": "PLASMIN, STREPTOKINASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMC",
+    "clashscore": 24.97,
+    "struct_pdbx_descriptors": "METALLO-BETA-LACTAMASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMA",
+    "clashscore": 3.53,
+    "struct_pdbx_descriptors": "ELASTASE, BENZYL METHYL AMINIMIDE INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BN1",
+    "clashscore": 6.14,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, THIOPHENE-2,5-DISULFONIC ACID 2-AMIDE-5-(4-METHYL-BENZYLAMIDE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BN4",
+    "clashscore": 6.14,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, N-[(4-METHOXYPHENYL)METHYL]2,5-THIOPHENEDESULFONAMIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMQ",
+    "clashscore": 22.79,
+    "struct_pdbx_descriptors": "INTERLEUKIN-1 BETA CONVERTASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMM",
+    "clashscore": 14.16,
+    "struct_pdbx_descriptors": "ALPHA-THROMBIN, HIRUDIN I, S-(R*,R*)]-4-[AMINOIMINOMETHYL)AMINO]-N-[[1-[3-HYDROXY -2-[(2-NAPHTHALENYLSULFONYL)AMINO]-1-OXOPROPYL]-2-PYRROLIDINYL] METHYL]BUTANAMIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNA",
+    "clashscore": 5.28,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*GP*AP*AP*TP*TP*CP*GP*CP*G)-3', 290 K",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMF",
+    "clashscore": 21.57,
+    "struct_pdbx_descriptors": "ATP PHOSPHORYLASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BN3",
+    "clashscore": 7.86,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, 2-(3-METHOXYPHENYL)-2H-THIENO-[3,2-E]-1,2-THIAZINE-6-SULFINAMIDE-1,1-DIOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BMO",
+    "clashscore": 11.79,
+    "struct_pdbx_descriptors": "BM-40",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNE",
+    "clashscore": 4.48,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-) DISULFIDE MUTANT WITH ALA 43 REPLACED BY CYS AND SER 80 REPLACED BY CYS (A43C,S80C)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNG",
+    "clashscore": 4.85,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-) DISULFIDE MUTANT WITH SER 85 REPLACED BY CYS AND HIS 102 REPLACED BY CYS (S85C,H102C)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BN8",
+    "clashscore": 0.84,
+    "struct_pdbx_descriptors": "PECTATE LYASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNN",
+    "clashscore": 7.61,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, 3,,4-DIHYDRO-2-(3-METHOXYPHENYL)-2H-THIENO-[3,2-E]-1,2-THIAZINE-6-SULFONAMIDE-1,1-DIOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BN5",
+    "clashscore": 1.44,
+    "struct_pdbx_descriptors": "METHIONINE AMINOPEPTIDASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNL",
+    "clashscore": 23.88,
+    "struct_pdbx_descriptors": "COLLAGEN XVIII",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNC",
+    "clashscore": 22.59,
+    "struct_pdbx_descriptors": "BIOTIN CARBOXYLASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNT",
+    "clashscore": 3.93,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, 3,4-DIHYDRO-4-HYDROXY-2-(4-METHOXYPHENYL)-2H-THIENO[3,2-E]-1,2-THIAZINE-6-SULFONAMIDE-1,1-DIOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNB",
+    "clashscore": 13.47,
+    "struct_pdbx_descriptors": "BETA-DEFENSIN 12",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BND",
+    "clashscore": 15.95,
+    "struct_pdbx_descriptors": "BRAIN DERIVED NEUROTROPHIC FACTOR, NEUROTROPHIN 3",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNO",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "NUCLEOTIDYLTRANSFERASE (DNA-BINDING)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BNF",
+    "clashscore": 5.08,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-) DISULFIDE MUTANT WITH THR 70 REPLACED BY CYS AND SER 92 REPLACED BY CYS (T70C,S92C)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNR",
+    "clashscore": 57.96,
+    "struct_pdbx_descriptors": "MICROBIAL RIBONUCLEASE",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BNK",
+    "clashscore": 23.15,
+    "struct_pdbx_descriptors": "3-METHYLADENINE DNA GLYCOSYLASE (E.C.3.2.2.21)/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNM",
+    "clashscore": 10.78,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, (R)-3,4-DIHYDRO-2-(3-METHOXYPHENYL)-4-METHYLAMINO-2H-THIENO[3,2-E]-1,2-THIAZINE-6-SULFONAMIDE-1,1-DIOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNQ",
+    "clashscore": 4.92,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, (R)-4-ETHYLAMINO-3,4-DIHYDRO-2-(2-METHOYLETHYL)-2H-THIENO[3,2-E]-1,2-THIAZINE-6-SULFONAMIDE-1,1-DIOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNS",
+    "clashscore": 8.22,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) MUTANT WITH THR 26 REPLACED BY ALA (T26A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNV",
+    "clashscore": 7.84,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, (S)-3,4-DIHYDRO-2-(3-METHOXYPHENYL)-4-METHYLAMINO-2H-THIENO[3,2-E]-1,2-THIAZINE-6-SULFONAMIDE-1,1-DIOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BO4",
+    "clashscore": 22.92,
+    "struct_pdbx_descriptors": "PROTEIN (SERRATIA MARCESCENS AMINOGLYCOSIDE-3-N-ACETYLTRANSFERASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOA",
+    "clashscore": 2.88,
+    "struct_pdbx_descriptors": "METHIONINE AMINOPEPTIDASE, FUMAGILLIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNU",
+    "clashscore": 4.19,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, 3,4-DIHYDRO-4-HYDROXY-2-(2-THIENYMETHYL)-2H-THIENO[3,2-E]-1,2-THIAZINE-6-SULFONAMIDE-1,1-DIOXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOG",
+    "clashscore": 17.76,
+    "struct_pdbx_descriptors": "ANTIBODY (CB 4-1), PEPTIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNW",
+    "clashscore": 4.93,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE, N-(2-THIENYLMETHYL)-2,5-THIOPHENEDISULFONAMIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BNZ",
+    "clashscore": 14.73,
+    "struct_pdbx_descriptors": "SSO7D HYPERTHERMOPHILE PROTEIN/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOI",
+    "clashscore": 4.94,
+    "struct_pdbx_descriptors": "RHODANESE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BO1",
+    "clashscore": 25.56,
+    "struct_pdbx_descriptors": "PROTEIN (PHOSPHATIDYLINOSITOL PHOSPHATE KINASE IIBETA) (2.7.1.68)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BO5",
+    "clashscore": 60.69,
+    "struct_pdbx_descriptors": "PROTEIN (GLYCEROL KINASE) (2.7.1.30)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOM",
+    "clashscore": 51.82,
+    "struct_pdbx_descriptors": "BOMBYXIN-II (NMR, MINIMIZED AVERAGE STRUCTURE)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BOB",
+    "clashscore": 8.27,
+    "struct_pdbx_descriptors": "HISTONE ACETYLTRANSFERASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BO9",
+    "clashscore": 23.83,
+    "struct_pdbx_descriptors": "METAL TRANSPORT",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BOW",
+    "clashscore": 27.49,
+    "struct_pdbx_descriptors": "MULTIDRUG-EFFLUX TRANSPORTER 1 REGULATOR BMRR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOY",
+    "clashscore": 13.28,
+    "struct_pdbx_descriptors": "HUMAN TISSUE FACTOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BP2",
+    "clashscore": 23.9,
+    "struct_pdbx_descriptors": "PHOSPHOLIPASE A2 (E.C.3.1.1.4) (PHOSPHATIDE ACYL-HYDROLASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BP4",
+    "clashscore": 5.93,
+    "struct_pdbx_descriptors": "PAPAIN, CARBOBENZYLOXYLEUCINYL-LEUCINYL-LEUCINAL",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOF",
+    "clashscore": 2.38,
+    "struct_pdbx_descriptors": "GI ALPHA 1, GUANOSINE-5'-DIPHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOD",
+    "clashscore": 136.04,
+    "struct_pdbx_descriptors": "CALBINDIN D9K MUTANT WITH ALA 14 DELETED, ALA 15 REPLACED BY ASP, PRO 20 REPLACED BY GLY, ASN 21 DELETED, AND PRO 43 REPLACED BY MET (A14DEL,A15D,P20G,N21DEL,P43M) (NMR, 24 STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BOL",
+    "clashscore": 3.42,
+    "struct_pdbx_descriptors": "PROTEIN (RIBONUCLEASE RH)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BP8",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "5'-D(*AP*CP*CP*CP*GP*GP*GP*T)-3', 4 MITHRAMYCIN, 2 MG COMPLEX",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BON",
+    "clashscore": 54.36,
+    "struct_pdbx_descriptors": "BOMBYXIN-II (NMR, 10 STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BOX",
+    "clashscore": 4.94,
+    "struct_pdbx_descriptors": "GUANYL-SPECIFIC RIBONUCLEASE SA",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOU",
+    "clashscore": 12.0,
+    "struct_pdbx_descriptors": "4,5-DIOXYGENASE ALPHA CHAIN, 4,5-DIOXYGENASE BETA CHAIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BOS",
+    "clashscore": 2.26,
+    "struct_pdbx_descriptors": "SHIGA-LIKE TOXIN I B SUBUNIT",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BP1",
+    "clashscore": 13.59,
+    "struct_pdbx_descriptors": "BACTERICIDAL",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BP5",
+    "clashscore": 14.07,
+    "struct_pdbx_descriptors": "PROTEIN (SERUM TRANSFERRIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BP7",
+    "clashscore": 23.25,
+    "struct_pdbx_descriptors": "ENDONUCLEASE I-CREI/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPB",
+    "clashscore": 34.76,
+    "struct_pdbx_descriptors": "DNA POLYMERASE BETA (BETA POLYMERASE) (E.C.2.7.7.7) (APO, 31KD DOMAIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQ3",
+    "clashscore": 8.98,
+    "struct_pdbx_descriptors": "PROTEIN (PHOSPHOGLYCERATE MUTASE 1) (5.4.2.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQ6",
+    "clashscore": 4.25,
+    "struct_pdbx_descriptors": "CHALCONE SYNTHASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQ8",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "PROTEIN (RUBREDOXIN) MUTANT (METHIONINE MUTANT)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQC",
+    "clashscore": 5.32,
+    "struct_pdbx_descriptors": "PROTEIN (BETA-MANNANASE) (3.2.1.78)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQB",
+    "clashscore": 5.98,
+    "struct_pdbx_descriptors": "PROTEIN (AUREOLYSIN) (3.4.24.27)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQG",
+    "clashscore": 20.48,
+    "struct_pdbx_descriptors": "D-GLUCARATE DEHYDRATASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQI",
+    "clashscore": 23.29,
+    "struct_pdbx_descriptors": "PAPAIN, CARBOBENZYLOXY-(L)-LEUCINYL-(L)LEUCINYL METHOXYMETHYLKETONE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQH",
+    "clashscore": 37.35,
+    "struct_pdbx_descriptors": "PROTEIN (HA1B_MOUSE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQO",
+    "clashscore": 8.03,
+    "struct_pdbx_descriptors": "STROMELYSIN-1, 1,3-BIS-(4-METHOXY-BENZENESULFONYL)-5,5-DIMETHYL-HEXAHYDRO-PYRIMIDINE-2-CARBOXYLIC ACID HYDROXYAMIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQJ",
+    "clashscore": 8.62,
+    "struct_pdbx_descriptors": "5'-D(*AP*CP*CP*CP*T)-3'",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQQ",
+    "clashscore": 38.66,
+    "struct_pdbx_descriptors": "MEMBRANE-TYPE MATRIX METALLOPROTEINASE, METALLOPROTEINASE INHIBITOR 2",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQL",
+    "clashscore": 11.81,
+    "struct_pdbx_descriptors": "HYHEL-5 FAB COMPLEXED WITH BOBWHITE QUAIL LYSOZYME",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQS",
+    "clashscore": 41.63,
+    "struct_pdbx_descriptors": "PROTEIN (MUCOSAL ADDRESSIN CELL ADHESION MOLECULE-1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQP",
+    "clashscore": 9.45,
+    "struct_pdbx_descriptors": "PROTEIN (PEA LECTIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BQY",
+    "clashscore": 6.61,
+    "struct_pdbx_descriptors": "PLASMINOGEN ACTIVATOR, GLU-GLY-ARG-CHLOROMETHYLKETONE INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BR2",
+    "clashscore": 34.62,
+    "struct_pdbx_descriptors": "MYOSIN, ADENOSINE-5'-DIPHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BR4",
+    "clashscore": 77.81,
+    "struct_pdbx_descriptors": "MYOSIN, ADENOSINE-5'-DIPHOSPHATE, BERYLLIUM TRIFLUORIDE ION",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BR3",
+    "clashscore": 22.92,
+    "struct_pdbx_descriptors": "RNA-DNA COMPLEX FORMED BY THE 10-23 DNA ENZYME",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BR6",
+    "clashscore": 5.65,
+    "struct_pdbx_descriptors": "RICIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BR9",
+    "clashscore": 7.13,
+    "struct_pdbx_descriptors": "METALLOPROTEINASE-2 INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRB",
+    "clashscore": 5.76,
+    "struct_pdbx_descriptors": "TRYPSIN (E.C.3.4.21.4) VARIANT (D189G, G226D) COMPLEXED WITH BPTI VARIANT (C5A, C55A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BR8",
+    "clashscore": 51.17,
+    "struct_pdbx_descriptors": "PROTEIN (ANTITHROMBIN-III) MUTANT (NOCE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRD",
+    "clashscore": 53.24,
+    "struct_pdbx_descriptors": "BACTERIORHODOPSIN",
+    "method": "ELECTRON CRYSTALLOGRAPHY",
+    "size": 0
+  },
+  {
+    "filename": "1BRA",
+    "clashscore": 16.74,
+    "struct_pdbx_descriptors": "TRYPSIN (E.C.3.4.21.4) VARIANT (D189G,G226D) COMPLEXED WITH BENZAMIDINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRF",
+    "clashscore": 6.34,
+    "struct_pdbx_descriptors": "PROTEIN (RUBREDOXIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRC",
+    "clashscore": 5.28,
+    "struct_pdbx_descriptors": "TRYPSIN (E.C.3.4.21.4) VARIANT (D189G,G226D) COMPLEXED WITH AMYLOID BETA-PROTEIN PRECURSOR INHIBITOR DOMAIN (APPI)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRH",
+    "clashscore": 7.16,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-) MUTANT WITH LEU 14 REPLACED BY ALA (L14A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRJ",
+    "clashscore": 7.71,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-) MUTANT WITH ILE 88 REPLACED BY ALA (I88A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRG",
+    "clashscore": 8.16,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) MUTANT WITH PHE 7 REPLACED BY LEU (F7L)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSL",
+    "clashscore": 24.54,
+    "struct_pdbx_descriptors": "BACTERIAL LUCIFERASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRI",
+    "clashscore": 5.92,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-) MUTANT WITH ILE 76 REPLACED BY ALA (I76A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRN",
+    "clashscore": 18.18,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-)/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRK",
+    "clashscore": 5.85,
+    "struct_pdbx_descriptors": "BARNASE (E.C.3.1.27.-) MUTANT WITH ILE 96 REPLACED BY ALA (I96A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRP",
+    "clashscore": 24.35,
+    "struct_pdbx_descriptors": "RETINOL BINDING PROTEIN (HOLO FORM)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRM",
+    "clashscore": 18.55,
+    "struct_pdbx_descriptors": "ASPARTATE-SEMIALDEHYDE DEHYDROGENASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRR",
+    "clashscore": 23.13,
+    "struct_pdbx_descriptors": "PROTEIN (BACTERIORHODOPSIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRO",
+    "clashscore": 6.22,
+    "struct_pdbx_descriptors": "BROMOPEROXIDASE A2",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRT",
+    "clashscore": 0.96,
+    "struct_pdbx_descriptors": "HALOPEROXIDASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRQ",
+    "clashscore": 41.21,
+    "struct_pdbx_descriptors": "RETINOL BINDING PROTEIN (APO FORM)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRV",
+    "clashscore": 2.34,
+    "struct_pdbx_descriptors": "PROTEIN G",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BRS",
+    "clashscore": 12.61,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) COMPLEXED WITH BARSTAR MUTANT WITH CYS 40 REPLACED BY ALA AND CYS 82 REPLACED BY ALA (C40A, C82A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRU",
+    "clashscore": 3.9,
+    "struct_pdbx_descriptors": "ELASTASE, 2-(2-HYDROXY-CYCLOPENTYL)-PENT-4-ENAL",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRZ",
+    "clashscore": 35.74,
+    "struct_pdbx_descriptors": "BRAZZEIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BRW",
+    "clashscore": 12.84,
+    "struct_pdbx_descriptors": "PROTEIN (PYRIMIDINE NUCLEOSIDE PHOSPHORYLASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BS1",
+    "clashscore": 4.62,
+    "struct_pdbx_descriptors": "PROTEIN (DETHIOBIOTIN SYNTHETASE) (6.3.3.3)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BRY",
+    "clashscore": 2.73,
+    "struct_pdbx_descriptors": "BRYODIN I",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BS0",
+    "clashscore": 9.21,
+    "struct_pdbx_descriptors": "PROTEIN (8-AMINO-7-OXONANOATE SYNTHASE) (2.3.1.47)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BS4",
+    "clashscore": 7.14,
+    "struct_pdbx_descriptors": "PROTEIN (PEPTIDE DEFORMYLASE) (3.5.1.31)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BS2",
+    "clashscore": 22.17,
+    "struct_pdbx_descriptors": "PROTEIN (ARGINYL-TRNA SYNTHETASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BS9",
+    "clashscore": 2.13,
+    "struct_pdbx_descriptors": "ACETYL XYLAN ESTERASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSB",
+    "clashscore": 11.78,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) MUTANT WITH ILE 76 REPLACED BY VAL (I76V)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSD",
+    "clashscore": 19.46,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) MUTANT WITH ILE 96 REPLACED BY VAL (I96V)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSA",
+    "clashscore": 12.21,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) MUTANT WITH ILE 51 REPLACED BY VAL (I51V)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSC",
+    "clashscore": 10.65,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) MUTANT WITH ILE 88 REPLACED BY VAL (I88V)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSE",
+    "clashscore": 19.77,
+    "struct_pdbx_descriptors": "BARNASE (G SPECIFIC ENDONUCLEASE) (E.C.3.1.27.-) MUTANT WITH LEU 89 REPLACED BY VAL (L89V)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSG",
+    "clashscore": 1.49,
+    "struct_pdbx_descriptors": "BETA LACTAMASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSN",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "PROTEIN (EPSILON SUBUNIT) (3.6.1.34)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BSJ",
+    "clashscore": 4.7,
+    "struct_pdbx_descriptors": "PEPTIDE DEFORMYLASE (E.C. 3.5.1.27)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSK",
+    "clashscore": 3.25,
+    "struct_pdbx_descriptors": "(PEPTIDE DEFORMYLASE) (E.C. 3.5.1.27)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSO",
+    "clashscore": 6.84,
+    "struct_pdbx_descriptors": "PROTEIN (BOVINE BETA-LACTOGLOBULIN A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSR",
+    "clashscore": 1.85,
+    "struct_pdbx_descriptors": "RIBONUCLEASE (BOVINE, SEMINAL) (BS-RNASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSQ",
+    "clashscore": 11.61,
+    "struct_pdbx_descriptors": "PROTEIN (BETA-LACTOGLOBULIN) MUTANT (VARIANT B)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSU",
+    "clashscore": 7.98,
+    "struct_pdbx_descriptors": "ENDONUCLEASE ECORV (E.C.3.1.21.4)/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSW",
+    "clashscore": 4.32,
+    "struct_pdbx_descriptors": "PROTEIN (ACUTOLYSIN A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSV",
+    "clashscore": 7.97,
+    "struct_pdbx_descriptors": "PROTEIN (GDP-FUCOSE SYNTHETASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BSX",
+    "clashscore": 35.8,
+    "struct_pdbx_descriptors": "PROTEIN (THYROID HORMONE RECEPTOR BETA)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BT3",
+    "clashscore": 12.51,
+    "struct_pdbx_descriptors": "PROTEIN (CATECHOL OXIDASE) (1.10.3.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BT4",
+    "clashscore": 7.92,
+    "struct_pdbx_descriptors": "PROTEIN (PHOSPHOSERINE AMINOTRANSFERASE) (2.6.1.52) MUTANT (K3E)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BT6",
+    "clashscore": 19.56,
+    "struct_pdbx_descriptors": "S100A10, ANNEXIN II",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTC",
+    "clashscore": 5.69,
+    "struct_pdbx_descriptors": "BETA-AMYLASE (E.C.3.2.1.2) COMPLEX WITH ALPHA-CYCLODEXTRIN (ALPHA-14-MALTOHYDROLASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTG",
+    "clashscore": 30.94,
+    "struct_pdbx_descriptors": "BETA NERVE GROWTH FACTOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTI",
+    "clashscore": 6.37,
+    "struct_pdbx_descriptors": "BOVINE PANCREATIC TRYPSIN INHIBITOR (BPTI) MUTANT WITH PHE 22 REPLACED BY ALA (F22A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTE",
+    "clashscore": 1.39,
+    "struct_pdbx_descriptors": "ACTIVIN RECEPTOR TYPE II (E.C.2.7.1.-)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTH",
+    "clashscore": 14.81,
+    "struct_pdbx_descriptors": "COMPLEX (SERINE PROTEASE/INHIBITOR)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTL",
+    "clashscore": 0.24,
+    "struct_pdbx_descriptors": "BETA-LACTAMASE TEM1 (E.C.3.5.2.6)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTO",
+    "clashscore": 4.97,
+    "struct_pdbx_descriptors": "LIVER ALCOHOL DEHYDROGENASE, NICOTINAMIDE-ADENINE-DINUCLEOTIDE, 3-BUTYLTHIOLANE 1-OXIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTQ",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "ANION TRANSPORT",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BTN",
+    "clashscore": 12.71,
+    "struct_pdbx_descriptors": "BETA-SPECTRIN, D-MYO-INOSITOL-1,4,5-TRIPHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTS",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "TRANSMEMBRANE PROTEIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BTZ",
+    "clashscore": 3.19,
+    "struct_pdbx_descriptors": "BETA-TRYPSIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTU",
+    "clashscore": 3.87,
+    "struct_pdbx_descriptors": "ELASTASE, (3S, 4R)-1-TOLUENESULPHONYL-3-ETHYL-AZETIDIN-2-ONE-4-CARBOXYLIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTY",
+    "clashscore": 1.77,
+    "struct_pdbx_descriptors": "BETA-TRYPSIN, BENZAMIDINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BTV",
+    "clashscore": 60.08,
+    "struct_pdbx_descriptors": "MAJOR BIRCH POLLEN ALLERGEN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BU1",
+    "clashscore": 6.95,
+    "struct_pdbx_descriptors": "PROTEIN (HEMOPOIETIC CELL KINASE) (2.7.1.112)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BU5",
+    "clashscore": 5.48,
+    "struct_pdbx_descriptors": "PROTEIN (FLAVODOXIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BU2",
+    "clashscore": 27.28,
+    "struct_pdbx_descriptors": "CYCLIN HOMOLOG",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BU7",
+    "clashscore": 8.85,
+    "struct_pdbx_descriptors": "CYTOCHROME P450",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BU4",
+    "clashscore": 4.0,
+    "struct_pdbx_descriptors": "RIBONUCLEASE T1, GUANOSINE-2'-MONOPHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BU8",
+    "clashscore": 7.66,
+    "struct_pdbx_descriptors": "PANCREATIC LIPASE RELATED PROTEIN 2",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUC",
+    "clashscore": 9.03,
+    "struct_pdbx_descriptors": "BUTYRYL-COA DEHYDROGENASE (BCAD) (BACTERIAL SHORT-CHAIN ACYL-COA DEHYDROGENASE) (E.C.1.3.99.2) COMPLEXED WITH FAD AND ACETOACETYL-COENZYME A",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUE",
+    "clashscore": 2.26,
+    "struct_pdbx_descriptors": "PROTEIN (NMC-A BETA-LACTAMASE) (3.5.2.6)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUH",
+    "clashscore": 12.11,
+    "struct_pdbx_descriptors": "PROTEIN (CDK2 HUMAN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUI",
+    "clashscore": 25.7,
+    "struct_pdbx_descriptors": "Plasmin light chain B (3.4.21.7), Staphylokinase",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUL",
+    "clashscore": 6.73,
+    "struct_pdbx_descriptors": "NMC-A BETA-LACTAMASE, 2-(1-CARBOXY-2-HYDROXY-2-METHYL-PROPYL)-5,5-DIMETHYL-THIAZOLIDINE-4-CARBOXYLIC ACID, 2-(N-MORPHOLINO)-ETHANESULFONIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUN",
+    "clashscore": 17.52,
+    "struct_pdbx_descriptors": "BETA2-BUNGAROTOXIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUO",
+    "clashscore": 6.72,
+    "struct_pdbx_descriptors": "PROMYELOCYTIC LEUKEMIA ZINC FINGER PROTEIN PLZF",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUS",
+    "clashscore": 34.47,
+    "struct_pdbx_descriptors": "PROTEINASE INHIBITOR IIA (BUSI IIA) (NMR, 5 DISTANCE CONSTRAINED STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BUU",
+    "clashscore": 7.87,
+    "struct_pdbx_descriptors": "PROTEIN (MANNOSE-BINDING PROTEIN A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZ0",
+    "clashscore": 2.76,
+    "struct_pdbx_descriptors": "PROTEIN (HEMOGLOBIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUV",
+    "clashscore": 36.27,
+    "struct_pdbx_descriptors": "PROTEIN (MEMBRANE-TYPE MATRIX METALLOPROTEINASE (CDMT1-MMP))",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BUX",
+    "clashscore": 15.52,
+    "struct_pdbx_descriptors": "NUCLEOSIDE DIPHOSPHATE KINASE, 3'-PHOSPHATE-ADENOSINE-5'-PHOSPHATE SULFATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BV1",
+    "clashscore": 6.67,
+    "struct_pdbx_descriptors": "BET V 1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BV3",
+    "clashscore": 4.93,
+    "struct_pdbx_descriptors": "PROTEIN (CARBONIC ANHYDRASE II) (4.2.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BV4",
+    "clashscore": 11.79,
+    "struct_pdbx_descriptors": "PROTEIN (MANNOSE-BINDING PROTEIN-C)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BV8",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "PROTEIN BINDING",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BVB",
+    "clashscore": 15.14,
+    "struct_pdbx_descriptors": "CYTOCHROME C-554, PROTOPORPHYRIN IX CONTAINING FE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVC",
+    "clashscore": 2.69,
+    "struct_pdbx_descriptors": "APOMYOGLOBIN, BILIVERDINE IX ALPHA",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVI",
+    "clashscore": 5.84,
+    "struct_pdbx_descriptors": "PROTEIN (RIBONUCLEASE T1) (3.1.27.3)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVK",
+    "clashscore": 27.98,
+    "struct_pdbx_descriptors": "HULYS11, LYSOZYME",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVO",
+    "clashscore": 26.06,
+    "struct_pdbx_descriptors": "TRANSCRIPTION FACTOR GAMBIF1/DNA Complex",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVL",
+    "clashscore": 42.92,
+    "struct_pdbx_descriptors": "HULYS11",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVQ",
+    "clashscore": 30.37,
+    "struct_pdbx_descriptors": "PROTEIN (4-HYDROXYBENZOYL COA THIOESTERASE) (3.8.1.6)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVN",
+    "clashscore": 27.94,
+    "struct_pdbx_descriptors": "PROTEIN (ALPHA-AMYLASE) (3.2.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVT",
+    "clashscore": 6.51,
+    "struct_pdbx_descriptors": "PROTEIN (BETA-LACTAMASE) (3.5.2.6)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVP",
+    "clashscore": 11.04,
+    "struct_pdbx_descriptors": "BLUETONGUE VIRUS 10 (USA) VP7 (BTV-10 (USA) VP7)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVV",
+    "clashscore": 3.58,
+    "struct_pdbx_descriptors": "ENDO-1,4-BETA-XYLANASE, 1,2-DEOXY-2-FLUORO-XYLOPYRANOSE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVR",
+    "clashscore": 38.41,
+    "struct_pdbx_descriptors": "PROTEIN (ENOYL-ACYL CARRIER PROTEIN (ACP) REDUCTASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVU",
+    "clashscore": 40.21,
+    "struct_pdbx_descriptors": "GLUTAMATE DEHYDROGENASE (E.C. 1.4.1.3)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVZ",
+    "clashscore": 9.43,
+    "struct_pdbx_descriptors": "PROTEIN (ALPHA-AMYLASE II) (3.2.1.135)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BVW",
+    "clashscore": 3.92,
+    "struct_pdbx_descriptors": "PROTEIN (CELLOBIOHYDROLASE II) (3.2.1.91)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BW3",
+    "clashscore": 16.02,
+    "struct_pdbx_descriptors": "BARWIN, BASIC BARLEY SEED PROTEIN (NMR, 20 STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BVY",
+    "clashscore": 18.78,
+    "struct_pdbx_descriptors": "PROTEIN (CYTOCHROME P450 (BM-3)) (1.14.14.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BW0",
+    "clashscore": 5.82,
+    "struct_pdbx_descriptors": "PROTEIN (TYROSINE AMINOTRANSFERASE) (2.6.1.5)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BW7",
+    "clashscore": 1.35,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*CP*AP*TP*DFTP*GP*TP*TP*AP*CP*C)-3', 5'-D(*GP*GP*TP*AP*AP*CP*AP*AP* TP*GP*CP*G)-3'",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BW8",
+    "clashscore": 9.43,
+    "struct_pdbx_descriptors": "PROTEIN (AP50)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BW9",
+    "clashscore": 8.55,
+    "struct_pdbx_descriptors": "PHENYLALANINE DEHYDROGENASE, NICOTINAMIDE-ADENINE-DINUCLEOTIDE, 2-OXO-3-PHENYLPROPIONIC ACID, 1,2-ETHANEDIOL",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BWC",
+    "clashscore": 3.08,
+    "struct_pdbx_descriptors": "PROTEIN (GLUTATHIONE REDUCTASE) (1.6.4.2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BWJ",
+    "clashscore": 0.51,
+    "struct_pdbx_descriptors": "PROTEIN (LYSOZYME)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BWO",
+    "clashscore": 10.67,
+    "struct_pdbx_descriptors": "NONSPECIFIC LIPID-TRANSFER PROTEIN, [1-MYRISTOYL-GLYCEROL-3-YL]PHOSPHONYLCHOLINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BWS",
+    "clashscore": 17.57,
+    "struct_pdbx_descriptors": "PROTEIN (GDP-4-KETO-6-DEOXY-D-MANNOSE EPIMERASE/REDUCTASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3M",
+    "clashscore": 6.42,
+    "struct_pdbx_descriptors": "AGGLUTININ",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BWV",
+    "clashscore": 2.09,
+    "struct_pdbx_descriptors": "PROTEIN (RIBULOSE BISPHOSPHATE CARBOXYLASE) (4.1.1.39)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BWX",
+    "clashscore": 15.52,
+    "struct_pdbx_descriptors": "PEPTIDE HORMONE",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BWY",
+    "clashscore": 0.52,
+    "struct_pdbx_descriptors": "PROTEIN (HEART FATTY ACID BINDING PROTEIN)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BWZ",
+    "clashscore": 15.98,
+    "struct_pdbx_descriptors": "PROTEIN (DIAMINOPIMELATE EPIMERASE) (5.1.1.7)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX0",
+    "clashscore": 3.96,
+    "struct_pdbx_descriptors": "PROTEIN (FERREDOXIN:NADP+ OXIDOREDUCTASE) (1.18.1.2) MUTANT (E312L)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX1",
+    "clashscore": 4.59,
+    "struct_pdbx_descriptors": "PROTEIN (FERREDOXIN:NADP+ OXIDOREDUCTASE) (1.18.1.2) MUTANT (E312Q)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX2",
+    "clashscore": 16.3,
+    "struct_pdbx_descriptors": "PROTEIN (HLA-DR2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX3",
+    "clashscore": 7.61,
+    "struct_pdbx_descriptors": "PROTEIN (GLYCOGEN PHOSPHORYLASE B) (2.4.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX4",
+    "clashscore": 4.04,
+    "struct_pdbx_descriptors": "PROTEIN (ADENOSINE KINASE) (2.7.1.20)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX6",
+    "clashscore": 70.49,
+    "struct_pdbx_descriptors": "CAMP-DEPENDENT PROTEIN KINASE, BALANOL",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX8",
+    "clashscore": 5.77,
+    "struct_pdbx_descriptors": "HIRUSTASIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BX9",
+    "clashscore": 11.31,
+    "struct_pdbx_descriptors": "PROTEIN (GLUTATHIONE S-TRANSFERASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXA",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "PROTEIN (AMICYANIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXE",
+    "clashscore": 12.51,
+    "struct_pdbx_descriptors": "PROTEIN (RIBOSOMAL PROTEIN L22) MUTANT (RESIDES MET1MSE MET64MSE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C57",
+    "clashscore": 2.52,
+    "struct_pdbx_descriptors": "PROTEIN (CONCANAVALIN A)",
+    "method": "NEUTRON DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXG",
+    "clashscore": 18.03,
+    "struct_pdbx_descriptors": "PHENYLALANINE DEHYDROGENASE, NICOTINAMIDE-ADENINE-DINUCLEOTIDE, HYDROCINNAMIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXK",
+    "clashscore": 15.58,
+    "struct_pdbx_descriptors": "PROTEIN (DTDP-GLUCOSE 4,6-DEHYDRATASE) (4.2.1.46)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXM",
+    "clashscore": 2.64,
+    "struct_pdbx_descriptors": "FUNGAL TOXIC ELICITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXL",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "COMPLEX (APOPTOSIS/PEPTIDE)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BXQ",
+    "clashscore": 2.92,
+    "struct_pdbx_descriptors": "PROTEIN (PENICILLOPEPSIN) (3.4.23.20)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXN",
+    "clashscore": 13.05,
+    "struct_pdbx_descriptors": "THE CRYSTAL STRUCTURE OF RUBISCO FROM ALCALIGENES EUTROPHUS TO 2.7 ANGSTROMS.",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXP",
+    "clashscore": 109.45,
+    "struct_pdbx_descriptors": "COMPLEX (TOXIN/PEPTIDE)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BXR",
+    "clashscore": 20.56,
+    "struct_pdbx_descriptors": "CARBAMOYL-PHOSPHATE SYNTHASE, PHOSPHOAMINOPHOSPHONIC ACID-ADENYLATE ESTER, ORNITHINE, TETRAETHYLAMMONIUM ION",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXT",
+    "clashscore": 15.55,
+    "struct_pdbx_descriptors": "PROTEIN (STREPTOCOCCAL SUPERANTIGEN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXY",
+    "clashscore": 4.98,
+    "struct_pdbx_descriptors": "PROTEIN (RIBOSOMAL PROTEIN L30)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BY2",
+    "clashscore": 2.48,
+    "struct_pdbx_descriptors": "MAC-2 BINDING PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BXZ",
+    "clashscore": 27.8,
+    "struct_pdbx_descriptors": "NADP-DEPENDENT ALCOHOL DEHYDROGENASE, 2-BUTANOL",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BY4",
+    "clashscore": 52.27,
+    "struct_pdbx_descriptors": "PROTEIN RETINOIC ACID RECEPTOR RXR-ALPHA/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BY1",
+    "clashscore": 24.46,
+    "struct_pdbx_descriptors": "TRANSPORT PROTEIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BY6",
+    "clashscore": 65.58,
+    "struct_pdbx_descriptors": "APOLIPOPROTEIN C-II",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BY5",
+    "clashscore": 15.46,
+    "struct_pdbx_descriptors": "PROTEIN (FHUA)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BY8",
+    "clashscore": 36.88,
+    "struct_pdbx_descriptors": "PROTEIN (PROCATHEPSIN K)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYA",
+    "clashscore": 30.02,
+    "struct_pdbx_descriptors": "BETA-AMYLASE (E.C.3.2.1.2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BY7",
+    "clashscore": 7.63,
+    "struct_pdbx_descriptors": "PROTEIN (PLASMINOGEN ACTIVATOR INHIBITOR-2) MUTANT (RESIDUES 66-98 EXCISED)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPE",
+    "clashscore": 133.87,
+    "struct_pdbx_descriptors": "DNA POLYMERASE BETA (BETA POLYMERASE) (E.C.2.7.7.7) FULL PROTEIN COMPLEXED WITH DEOXY-ATP",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPI",
+    "clashscore": 9.79,
+    "struct_pdbx_descriptors": "BOVINE PANCREATIC TRYPSIN INHIBITOR (BPTI) (CRYSTAL FORM II)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPD",
+    "clashscore": 71.92,
+    "struct_pdbx_descriptors": "DNA POLYMERASE BETA (BETA POLYMERASE) (E.C.2.7.7.7) (APO, FULL PROTEIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPL",
+    "clashscore": 8.98,
+    "struct_pdbx_descriptors": "ALPHA-1,4-GLUCAN-4-GLUCANOHYDROLASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPH",
+    "clashscore": 11.75,
+    "struct_pdbx_descriptors": "INSULIN (CUBIC) IN 0.1M SODIUM SALT SOLUTION AT PH9",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPN",
+    "clashscore": 11.71,
+    "struct_pdbx_descriptors": "LEUCINE AMINOPEPTIDASE (E.C.3.4.11.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPQ",
+    "clashscore": 4.9,
+    "struct_pdbx_descriptors": "PHOSPHOLIPASE A2 (E.C.3.1.1.4) MUTANT WITH LYS 56 REPLACED BY MET (K56M)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPO",
+    "clashscore": 45.72,
+    "struct_pdbx_descriptors": "PROTEIN (CLATHRIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPR",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "MOLECULAR CHAPERONE",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BPT",
+    "clashscore": 13.82,
+    "struct_pdbx_descriptors": "BOVINE PANCREATIC TRYPSIN INHIBITOR (BPTI) MUTANT (TYR 23 REPLACED BY ALA) (Y23A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPV",
+    "clashscore": 48.69,
+    "struct_pdbx_descriptors": "CONNECTIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BPX",
+    "clashscore": 80.02,
+    "struct_pdbx_descriptors": "DNA POLYMERASE BETA/DNA COMPLEX (EC 2.7.7.7)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPZ",
+    "clashscore": 84.2,
+    "struct_pdbx_descriptors": "DNA POLYMERASE BETA/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPW",
+    "clashscore": 21.07,
+    "struct_pdbx_descriptors": "PROTEIN (ALDEHYDE DEHYDROGENASE) (1.2.1.8)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BPY",
+    "clashscore": 46.07,
+    "struct_pdbx_descriptors": "DNA POLYMERASE BETA/DNA COMPLEX + 2',3'-DIDEOXYCYTIDINE-5'-TRIPHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYG",
+    "clashscore": 11.41,
+    "struct_pdbx_descriptors": "PROTEIN (C-TERMINAL SRC KINASE) (2.7.1.112)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYC",
+    "clashscore": 20.8,
+    "struct_pdbx_descriptors": "BETA-AMYLASE (E.C.3.2.1.2) REACTED WITH 8 MM MALTOSE AND COMPLEXED WITH MALTOTETRAOSE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYF",
+    "clashscore": 2.66,
+    "struct_pdbx_descriptors": "PROTEIN (POLYANDROCARPA LECTIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYR",
+    "clashscore": 18.68,
+    "struct_pdbx_descriptors": "PROTEIN (ENDONUCLEASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYH",
+    "clashscore": 20.86,
+    "struct_pdbx_descriptors": "HYBRID (1,3-1,4)-BETA-D-GLUCAN 4-GLUCANOHYDROLASE H (A16-M) (E.C.3.2.1.73) (GLU 105 COVALENTLY MODIFIED WITH 3,4-EPOXYBUTYL-BETA-D-CELLOBIOSIDE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYD",
+    "clashscore": 20.59,
+    "struct_pdbx_descriptors": "BETA-AMYLASE (E.C.3.2.1.2) REACTED WITH 100 MM MALTAL AND COMPLEXED WITH 2-DEOXYMALTOSE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYW",
+    "clashscore": 10.57,
+    "struct_pdbx_descriptors": "PROTEIN (HUMAN ERG POTASSIUM CHANNEL) MUTANT (R73C)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYL",
+    "clashscore": 6.44,
+    "struct_pdbx_descriptors": "PROTEIN (BLEOMYCIN RESISTANCE PROTEIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYI",
+    "clashscore": 6.95,
+    "struct_pdbx_descriptors": "DETHIOBIOTIN SYNTHASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYU",
+    "clashscore": 2.37,
+    "struct_pdbx_descriptors": "PROTEIN (RAN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYZ",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "PROTEIN (SYNTHETIC DESIGNED PEPTIDE \"ALPHA-1\")",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYB",
+    "clashscore": 19.65,
+    "struct_pdbx_descriptors": "BETA-AMYLASE (E.C.3.2.1.2) REACTED WITH 200 MM MALTOSE AND COMPLEXED WITH MALTOTETRAOSE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYQ",
+    "clashscore": 11.51,
+    "struct_pdbx_descriptors": "PROTEIN (HEAT SHOCK PROTEIN 90)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BYV",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "PROTEIN (CALCITONIN)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BYN",
+    "clashscore": 0.03,
+    "struct_pdbx_descriptors": "ENDOCYTOSIS/EXOCYTOSIS",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BYM",
+    "clashscore": 99.78,
+    "struct_pdbx_descriptors": "GENE REGULATION",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BYJ",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "16S RNA",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1BZ1",
+    "clashscore": 3.41,
+    "struct_pdbx_descriptors": "PROTEIN (HEMOGLOBIN) VARIANT (CHAIN A, C, ADDITIONAL NH2-TERMINAL MET)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZ4",
+    "clashscore": 6.9,
+    "struct_pdbx_descriptors": "PROTEIN (APOLIPOPROTEIN E) MUTANT (TRUNCATION AT RESIDUE 165)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZR",
+    "clashscore": 4.34,
+    "struct_pdbx_descriptors": "MYOGLOBIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZ5",
+    "clashscore": 9.3,
+    "struct_pdbx_descriptors": "PANCREATIC TRYPSIN INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZ8",
+    "clashscore": 18.67,
+    "struct_pdbx_descriptors": "PROTEIN (TRANSTHYRETIN) MUTANT (TRINUCLEOTIDE DELETION VARIANT DELVAL122)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZ7",
+    "clashscore": 12.9,
+    "struct_pdbx_descriptors": "ANTIBODY R24 (FAB FRAGMENT)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZJ",
+    "clashscore": 6.0,
+    "struct_pdbx_descriptors": "PROTEIN (PROTEIN-TYROSINE-PHOSPHATASE) (3.1.3.48)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZ9",
+    "clashscore": 17.11,
+    "struct_pdbx_descriptors": "CLASS I HISTOCOMPATIBILITY ANTIGEN, PEPTIDE P1027 (FAPGVFPYM)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZM",
+    "clashscore": 20.93,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE I (E.C.4.2.1.1) COMPLEXED WITH INHIBITOR 5-ACETAMINO-4-METHYL-1,3,4-THIADOZOLINE-2-SULFONAMIDE (MZM)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZL",
+    "clashscore": 5.49,
+    "struct_pdbx_descriptors": "TRYPANOTHIONE REDUCTASE (E.C.1.6.4.8)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZQ",
+    "clashscore": 12.33,
+    "struct_pdbx_descriptors": "RNASE A/ANTIBODY CAB-RN05",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZS",
+    "clashscore": 2.72,
+    "struct_pdbx_descriptors": "NEUTROPHIL COLLAGENASE (E.C.3.4.24.34)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZW",
+    "clashscore": 5.23,
+    "struct_pdbx_descriptors": "PROTEIN (PEANUT LECTIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZX",
+    "clashscore": 6.0,
+    "struct_pdbx_descriptors": "PROTEIN (TRYPSIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZY",
+    "clashscore": 16.89,
+    "struct_pdbx_descriptors": "HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE, PHOSPHORIC ACID MONO-[5-(2-AMINO-4-OXO-4,5-DIHYDRO-3H-PYRROLO[3,2-D]PYRIMIDIN-7-YL)-3,4-DIHYDROXY-PYRROLIDIN-2-YLMETHYL] ESTER, PYROPHOSPHATE 2-",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1BZZ",
+    "clashscore": 3.86,
+    "struct_pdbx_descriptors": "OXYGEN STORAGE/TRANSPORT",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C01",
+    "clashscore": 4.53,
+    "struct_pdbx_descriptors": "ANTIMICROBIAL PROTEIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C02",
+    "clashscore": 4.68,
+    "struct_pdbx_descriptors": "PHOSPHOTRANSFERASE YPD1P",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C05",
+    "clashscore": 22.75,
+    "struct_pdbx_descriptors": "RIBOSOMAL PROTEIN S4 DELTA 41",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C04",
+    "clashscore": 39.24,
+    "struct_pdbx_descriptors": "LARGE RIBOSOME SUBUNIT",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C08",
+    "clashscore": 9.04,
+    "struct_pdbx_descriptors": "IMMUNE SYSTEM/HYDROLASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C0A",
+    "clashscore": 15.71,
+    "struct_pdbx_descriptors": "ASPARTYL-TRNA SYNTHETASE (E.C.6.1.1.12)/TRNA COMPLEX, ADENOSINE MONOPHOSPHATE, ASPARTYL-2'-DEOXY-ADENOSINE-5'-MONOPHOSPHATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C0C",
+    "clashscore": 63.83,
+    "struct_pdbx_descriptors": "RIBONUCLEASE A (E.C.3.1.27.5)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C0G",
+    "clashscore": 1.44,
+    "struct_pdbx_descriptors": "CONTRACTILE PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C0K",
+    "clashscore": 3.52,
+    "struct_pdbx_descriptors": "D-AMINO ACID OXIDASE (E.C.1.4.3.3)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C0M",
+    "clashscore": 22.06,
+    "struct_pdbx_descriptors": "PROTEIN (INTEGRASE) (E.C.2.7.7.49) MUTANT (F199K)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C0N",
+    "clashscore": 19.88,
+    "struct_pdbx_descriptors": "CSDB PROTEIN, NIFS HOMOLOGUE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1B",
+    "clashscore": 16.13,
+    "struct_pdbx_descriptors": "HIV-1 REVERSE TRANSCRIPTASE (A-CHAIN)/HIV-1 REVERSE TRANSCRIPTASE (B-CHAIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C0W",
+    "clashscore": 36.52,
+    "struct_pdbx_descriptors": "DIPHTHERIA TOXIN REPRESSOR/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C10",
+    "clashscore": 18.28,
+    "struct_pdbx_descriptors": "PROTEIN (LYSOZYME) (3.2.1.17)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C14",
+    "clashscore": 9.39,
+    "struct_pdbx_descriptors": "ENOYL REDUCTASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C12",
+    "clashscore": 15.38,
+    "struct_pdbx_descriptors": "ANTIBODY FRAGMENT FAB",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C16",
+    "clashscore": 30.66,
+    "struct_pdbx_descriptors": "MHC-LIKE PROTEIN T22/BETA-2-MICROGLOBULIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1E",
+    "clashscore": 20.98,
+    "struct_pdbx_descriptors": "CATALYTIC ANTIBODY 1E9 (LIGHT CHAIN)/CATALYTIC ANTIBODY 1E9 (HEAVY CHAIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1L",
+    "clashscore": 1.37,
+    "struct_pdbx_descriptors": "CONGERIN I",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1D",
+    "clashscore": 4.58,
+    "struct_pdbx_descriptors": "L-PHENYLALANINE DEHYDROGENASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1J",
+    "clashscore": 21.65,
+    "struct_pdbx_descriptors": "BASIC PHOSPHOLIPASE A2 (E.C.3.1.1.4)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1C",
+    "clashscore": 28.44,
+    "struct_pdbx_descriptors": "HIV-1 REVERSE TRANSCRIPTASE A-CHAIN/HIV-1 REVERSE TRANSCRIPTASE B-CHAIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1P",
+    "clashscore": 2.97,
+    "struct_pdbx_descriptors": "TRYPSIN (E.C.3.4.21.4)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1K",
+    "clashscore": 9.94,
+    "struct_pdbx_descriptors": "BPT4 GENE 59 HELICASE ASSEMBLY PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1G",
+    "clashscore": 18.0,
+    "struct_pdbx_descriptors": "PORCINE CARDIAC TROPOMYOSIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1M",
+    "clashscore": 11.15,
+    "struct_pdbx_descriptors": "PROTEIN (PORCINE ELASTASE) (3.4.21.36)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1H",
+    "clashscore": 11.43,
+    "struct_pdbx_descriptors": "FERROCHELATASE COMPLEXED WITH N-METHYL MESOPORPHYRIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1U",
+    "clashscore": 3.94,
+    "struct_pdbx_descriptors": "ALPHA THROMBIN (E.C.3.4.21.5)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1Z",
+    "clashscore": 35.75,
+    "struct_pdbx_descriptors": "BETA2-GLYCOPROTEIN-I",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C25",
+    "clashscore": 5.41,
+    "struct_pdbx_descriptors": "CDC25A",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1Y",
+    "clashscore": 3.39,
+    "struct_pdbx_descriptors": "RAP.",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C1W",
+    "clashscore": 4.79,
+    "struct_pdbx_descriptors": "ALPHA THROMBIN (E.C.3.4.21.5), ACETYL HIRUDIN (E.C.3.4.21.5)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9D",
+    "clashscore": 8.81,
+    "struct_pdbx_descriptors": "TRYPTOPHAN SYNTHASE (E.C.4.2.1.20)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C2B",
+    "clashscore": 31.37,
+    "struct_pdbx_descriptors": "ACETYLCHOLINESTERASE (E.C. 3.1.1.7)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C26",
+    "clashscore": 7.6,
+    "struct_pdbx_descriptors": "P53 TUMOR SUPPRESSOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C2A",
+    "clashscore": 1.14,
+    "struct_pdbx_descriptors": "HYDROLASE INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3H",
+    "clashscore": 21.54,
+    "struct_pdbx_descriptors": "30 KD ADIPOCYTE COMPLEMENT-RELATED PROTEIN PRECURSOR (ACRP30)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C2R",
+    "clashscore": 16.85,
+    "struct_pdbx_descriptors": "CYTOCHROME C2",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C2X",
+    "clashscore": 125.0,
+    "struct_pdbx_descriptors": "5S RIBOSOMAL RNA",
+    "method": "ELECTRON MICROSCOPY",
+    "size": 0
+  },
+  {
+    "filename": "1C2P",
+    "clashscore": 6.93,
+    "struct_pdbx_descriptors": "RNA-DEPENDENT RNA POLYMERASE (E.C.2.7.7.48)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C2T",
+    "clashscore": 20.33,
+    "struct_pdbx_descriptors": "GLYCINAMIDE RIBONUCLEOTIDE TRANSFORMYLASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C39",
+    "clashscore": 4.44,
+    "struct_pdbx_descriptors": "PROTEIN (CATION-DEPENDENT MANNOSE-6-PHOSPHATE RECEPTOR) MUTANT (N31Q, N57Q, N68Q, N87Q)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3A",
+    "clashscore": 13.48,
+    "struct_pdbx_descriptors": "FLAVOCETIN-A: ALPHA AND BETA SUBUNITS",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C2N",
+    "clashscore": 0.87,
+    "struct_pdbx_descriptors": "CYTOCHROME C2, HEME C",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C3G",
+    "clashscore": 41.42,
+    "struct_pdbx_descriptors": "HEAT SHOCK PROTEIN 40",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3D",
+    "clashscore": 6.57,
+    "struct_pdbx_descriptors": "C3D",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3I",
+    "clashscore": 5.59,
+    "struct_pdbx_descriptors": "STROMELYSIN-1D (E.C.3.4.24.17) (CATALYTIC DOMAIN) + RO-26-2812",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3E",
+    "clashscore": 18.97,
+    "struct_pdbx_descriptors": "GLYCINAMIDE RIBONUCLEOTIDE TRANSFORMYLASE (2.1.2.2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3B",
+    "clashscore": 13.61,
+    "struct_pdbx_descriptors": "CEPHALOSPORINASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3P",
+    "clashscore": 30.17,
+    "struct_pdbx_descriptors": "PROTEIN (HDLP (HISTONE DEACETYLASE-LIKE PROTEIN))",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3J",
+    "clashscore": 6.72,
+    "struct_pdbx_descriptors": "BETA-GLUCOSYLTRANSFERASE (E.C.2.4.1.27)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3C",
+    "clashscore": 5.09,
+    "struct_pdbx_descriptors": "PROTEIN (ADENYLOSUCCINATE LYASE) (4.3.2.2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3L",
+    "clashscore": 20.2,
+    "struct_pdbx_descriptors": "SUBTILISIN-CARLSBERG (3.4.21.62)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3Q",
+    "clashscore": 9.29,
+    "struct_pdbx_descriptors": "HIS TAG (E.C.2.7.1.50), HYDROXYETHYLTHIAZOLE KINASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3U",
+    "clashscore": 8.02,
+    "struct_pdbx_descriptors": "ADENYLOSUCCINATE LYASE (E.C.4.3.2.2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3W",
+    "clashscore": 22.46,
+    "struct_pdbx_descriptors": "BACTERIORHODOPSIN/LIPID COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C40",
+    "clashscore": 15.26,
+    "struct_pdbx_descriptors": "PROTEIN (HEMOGLOBIN (ALPHA CHAIN))",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3T",
+    "clashscore": 14.19,
+    "struct_pdbx_descriptors": "PROTEIN (1D8 UBIQUITIN) MUTANT (I3L,I13L,L15V,V17L,I23V,V26L,I61L,L67I)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C30",
+    "clashscore": 16.62,
+    "struct_pdbx_descriptors": "CARBAMOYL PHOSPHATE SYNTHETASE: LARGE SUBUNIT",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C44",
+    "clashscore": 32.47,
+    "struct_pdbx_descriptors": "PROTEIN (STEROL CARRIER PROTEIN 2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4B",
+    "clashscore": 128.58,
+    "struct_pdbx_descriptors": "BETA-HAIRPIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C4O",
+    "clashscore": 9.31,
+    "struct_pdbx_descriptors": "DNA NUCLEOTIDE EXCISION REPAIR ENZYME UVRB",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4C",
+    "clashscore": 5.81,
+    "struct_pdbx_descriptors": "BINDING OF EXOGENOUSLY ADDED CARBON MONOXIDE AT THE ACTIVE SITE OF THE FE-ONLY HYDROGENASE (CPI) FROM CLOSTRIDIUM PASTEURIANUM",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3V",
+    "clashscore": 9.1,
+    "struct_pdbx_descriptors": "DIHYDRODIPICOLINATE REDUCTASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3X",
+    "clashscore": 21.51,
+    "struct_pdbx_descriptors": "PENTOSYLTRANSFERASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C47",
+    "clashscore": 8.64,
+    "struct_pdbx_descriptors": "ALPHA-D-GLUCOSE 1,6-BISPHOSPHATE PHOSPHOTRANSFERASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4A",
+    "clashscore": 6.49,
+    "struct_pdbx_descriptors": "PROTEIN (FE-ONLY HYDROGENASE) (1.18.99.1), 2 IRON/2 SULFUR/5 CARBONYL/2 WATER INORGANIC CLUSTER, IRON/SULFUR CLUSTER, FE2/S2 (INORGANIC) CLUSTER",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C41",
+    "clashscore": 21.26,
+    "struct_pdbx_descriptors": "LUMAZINE SYNTHASE (E.C.2.5.1.9)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4G",
+    "clashscore": 12.85,
+    "struct_pdbx_descriptors": "PROTEIN (ALPHA-D-GLUCOSE 1-PHOSPHATE) (2.7.5.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4P",
+    "clashscore": 22.43,
+    "struct_pdbx_descriptors": "PROTEIN (STREPTOKINASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4E",
+    "clashscore": 192.69,
+    "struct_pdbx_descriptors": "PROTEIN (GURMARIN)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C5B",
+    "clashscore": 18.55,
+    "struct_pdbx_descriptors": "DECARBOXYLASE CATALYTIC ANTIBODY 21D8",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C3O",
+    "clashscore": 15.76,
+    "struct_pdbx_descriptors": "CARBAMOYL PHOSPHATE SYNTHETASE: LARGE SUBUNIT and SMALL SUBUNIT (E.C.6.3.5.5)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5D",
+    "clashscore": 35.09,
+    "struct_pdbx_descriptors": "MONOCLONAL ANTIBODY AGAINST THE MAIN IMMUNOGENIC REGION OF THE HUMAN MUSCLE ACETYLCHOLINE RECEPTOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5C",
+    "clashscore": 4.84,
+    "struct_pdbx_descriptors": "DECARBOXYLASE ANTIBODY 21D8",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C2W",
+    "clashscore": 211.67,
+    "struct_pdbx_descriptors": "23S RIBOSOMAL RNA",
+    "method": "ELECTRON MICROSCOPY",
+    "size": 0
+  },
+  {
+    "filename": "1C5E",
+    "clashscore": 1.43,
+    "struct_pdbx_descriptors": "HEAD DECORATION PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5F",
+    "clashscore": 11.23,
+    "struct_pdbx_descriptors": "PEPTIDYL-PROLYL CIS-TRANS ISOMERASE 1 (E.C.5.2.1.8), CYCLOSPORIN A",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5G",
+    "clashscore": 14.96,
+    "struct_pdbx_descriptors": "PLASMINOGEN ACTIVATOR INHIBITOR-1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5K",
+    "clashscore": 20.55,
+    "struct_pdbx_descriptors": "TOLB PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5L",
+    "clashscore": 3.75,
+    "struct_pdbx_descriptors": "HUMAN ALPHA THROMBIN (LIGHT CHAIN)/HUMAN ALPHA THROMBIN (HEAVY CHAIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5M",
+    "clashscore": 14.42,
+    "struct_pdbx_descriptors": "COAGULATION FACTOR X (HEAVY CHAIN)/COAGULATION FACTOR X (LIGHT CHAIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5N",
+    "clashscore": 4.18,
+    "struct_pdbx_descriptors": "Thrombin light chain, Thrombin heavy chain, Hirudin",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5O",
+    "clashscore": 4.44,
+    "struct_pdbx_descriptors": "BLOOD CLOTTING/HYDROLASE INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5Q",
+    "clashscore": 2.09,
+    "struct_pdbx_descriptors": "TRYPSIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5X",
+    "clashscore": 4.28,
+    "struct_pdbx_descriptors": "UROKINASE-TYPE PLASMINOGEN ACTIVATOR (SHORT CHAIN)/UROKINASE-TYPE PLASMINOGEN ACTIVATOR (CATALYTIC DOMAIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C6O",
+    "clashscore": 3.03,
+    "struct_pdbx_descriptors": "CYTOCHROME C6",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C6V",
+    "clashscore": 42.81,
+    "struct_pdbx_descriptors": "SIMIAN IMMUNODEFICIENCY VIRUS CONTAINING THE CORE AND C-TERMINAL DOMAIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C6X",
+    "clashscore": 6.4,
+    "struct_pdbx_descriptors": "PROTEASE (E.C.3.4.21.-)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C70",
+    "clashscore": 3.73,
+    "struct_pdbx_descriptors": "PROTEASE (E.C.3.4.24.-)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C72",
+    "clashscore": 10.23,
+    "struct_pdbx_descriptors": "GLUTATHIONE S-TRANSFERASE (E.C.2.5.1.18)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C79",
+    "clashscore": 13.42,
+    "struct_pdbx_descriptors": "STAPHYLOKINASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C7G",
+    "clashscore": 10.07,
+    "struct_pdbx_descriptors": "TYROSINE PHENOL-LYASE (E.C.4.1.99.2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C7K",
+    "clashscore": 1.56,
+    "struct_pdbx_descriptors": "ZINC ENDOPROTEASE (E.C.3.4.24.-)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C7N",
+    "clashscore": 10.72,
+    "struct_pdbx_descriptors": "CYSTALYSIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C7Q",
+    "clashscore": 9.74,
+    "struct_pdbx_descriptors": "PHOSPHOGLUCOSE ISOMERASE (E.C.5.3.1.9)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C7O",
+    "clashscore": 14.1,
+    "struct_pdbx_descriptors": "CRYSTAL STRUCTURE OF CYSTALYSIN FROM TREPONEMA DENTICOLA CONTAINS A PYRIDOXAL 5'-PHOSPHATE-L-AMINOETHOXYVINYLGLYCINE COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C7Y",
+    "clashscore": 39.25,
+    "struct_pdbx_descriptors": "HOLLIDAY JUNCTION DNA HELICASE RUVA/DNA HOLLIDAY JUNCTION COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C82",
+    "clashscore": 9.69,
+    "struct_pdbx_descriptors": "HYALURONATE LYASE (E.C.4.2.2.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C83",
+    "clashscore": 3.52,
+    "struct_pdbx_descriptors": "PROTEIN-TYROSINE PHOSPHATASE 1B (E.C.3.1.3.48)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8C",
+    "clashscore": 10.92,
+    "struct_pdbx_descriptors": "DNA-BINDING PROTEIN 7A/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8B",
+    "clashscore": 41.15,
+    "struct_pdbx_descriptors": "SPORE PROTEASE (E.C.3.4.99.-)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8L",
+    "clashscore": 10.4,
+    "struct_pdbx_descriptors": "GLYCOGEN PHOSPHORYLASE (E.C.2.4.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8Q",
+    "clashscore": 7.7,
+    "struct_pdbx_descriptors": "ALPHA-AMYLASE (E.C.3.2.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8S",
+    "clashscore": 38.74,
+    "struct_pdbx_descriptors": "ION TRANSPORT",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8N",
+    "clashscore": 6.57,
+    "struct_pdbx_descriptors": "COAT PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8U",
+    "clashscore": 15.18,
+    "struct_pdbx_descriptors": "ACYL-COA THIOESTERASE II (E.C.3.1.2.-)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8W",
+    "clashscore": 12.59,
+    "struct_pdbx_descriptors": "PROTEIN (124-MER)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8V",
+    "clashscore": 6.58,
+    "struct_pdbx_descriptors": "TRYPTOPHAN SYNTHASE (EC 4.2.1.20): CHAIN A",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C94",
+    "clashscore": 30.45,
+    "struct_pdbx_descriptors": "RETRO-GCN4 LEUCINE ZIPPER",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C8Z",
+    "clashscore": 28.9,
+    "struct_pdbx_descriptors": "TUBBY PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C96",
+    "clashscore": 8.42,
+    "struct_pdbx_descriptors": "MITOCHONDRIAL ACONITASE (E.C.4.2.3.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9B",
+    "clashscore": 29.15,
+    "struct_pdbx_descriptors": "TATA-BOX BINDING PROTEIN, GENERAL TRANSCRIPTION FACTOR IIB/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9C",
+    "clashscore": 13.07,
+    "struct_pdbx_descriptors": "ASPARTATE AMINOTRANSFERASE (E.C.2.6.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C97",
+    "clashscore": 7.9,
+    "struct_pdbx_descriptors": "MITOCHONDRIAL ACONITASE (E.C.4.2.1.3)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9E",
+    "clashscore": 10.59,
+    "struct_pdbx_descriptors": "PROTOHEME FERROLYASE (E.C.4.99.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C99",
+    "clashscore": 55.37,
+    "struct_pdbx_descriptors": "PROTEOLIPID F1FO ATPASE SUBUNIT C",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C9H",
+    "clashscore": 8.96,
+    "struct_pdbx_descriptors": "FKBP12.6 + RAPAMYCIN COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9N",
+    "clashscore": 4.28,
+    "struct_pdbx_descriptors": "SUBTILISIN (E.C.3.4.21.62) VARIANT",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9L",
+    "clashscore": 27.12,
+    "struct_pdbx_descriptors": "PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9I",
+    "clashscore": 33.16,
+    "struct_pdbx_descriptors": "CLATHRIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9K",
+    "clashscore": 45.23,
+    "struct_pdbx_descriptors": "ADENOSYLCOBINAMIDE KINASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9S",
+    "clashscore": 8.05,
+    "struct_pdbx_descriptors": "TRP RNA-BINDING ATTENUATION PROTEIN/RNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9U",
+    "clashscore": 11.92,
+    "struct_pdbx_descriptors": "SOLUBLE QUINOPROTEIN GLUCOSE DEHYDROGENASE (E.C.1.1.99.17)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9O",
+    "clashscore": 7.93,
+    "struct_pdbx_descriptors": "COLD-SHOCK PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9W",
+    "clashscore": 19.66,
+    "struct_pdbx_descriptors": "CHO REDUCTASE (E.C.1.1.1.2)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9Y",
+    "clashscore": 2.54,
+    "struct_pdbx_descriptors": "ORNITHINE CARBAMOYLTRANSFERASE (E.C.2.1.3.3)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA0",
+    "clashscore": 11.85,
+    "struct_pdbx_descriptors": "BOVINE CHYMOTRYPSIN, PROTEASE INHIBITOR DOMAIN OF ALZHEIMER'S AMYLOID BETA-PROTEIN PRECURSOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9T",
+    "clashscore": 13.75,
+    "struct_pdbx_descriptors": "TRYPSIN/BDELLASTASIN COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA2",
+    "clashscore": 9.68,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (CARBONATE DEHYDRATASE) (HCA II) (E.C.4.2.1.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA4",
+    "clashscore": 15.52,
+    "struct_pdbx_descriptors": "TNF RECEPTOR ASSOCIATED FACTOR 2",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C9Z",
+    "clashscore": 8.16,
+    "struct_pdbx_descriptors": "5'-D(*CP*GP*TP*AP*CP*G)-3', BIS-INTERCALATOR D232",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA6",
+    "clashscore": 14.97,
+    "struct_pdbx_descriptors": "CHROMOSOMAL PROTEIN SAC7D/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA8",
+    "clashscore": 25.49,
+    "struct_pdbx_descriptors": "THROMBIN, HIRUGEN, CVS1695",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAA",
+    "clashscore": 10.14,
+    "struct_pdbx_descriptors": "RUBREDOXIN (OXIDIZED)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA3",
+    "clashscore": 17.7,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (CARBONATE DEHYDRATASE) (HCA II) (E.C.4.2.1.1) (PH 5.7)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAG",
+    "clashscore": 33.12,
+    "struct_pdbx_descriptors": "COLLAGEN-LIKE PEPTIDE (PRO-HYP-GLY)4 PRO-HYP-ALA (PRO-HYP-GLY)5",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAI",
+    "clashscore": 2.19,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) MUTANT WITH GLU 106 REPLACED BY ALA (E106A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA7",
+    "clashscore": 8.23,
+    "struct_pdbx_descriptors": "MACROPHAGE MIGRATION INHIBITORY FACTOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAK",
+    "clashscore": 3.65,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) MUTANT WITH GLU 106 REPLACED BY GLN (E106Q)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CA9",
+    "clashscore": 29.21,
+    "struct_pdbx_descriptors": "TNF RECEPTOR ASSOCIATED FACTOR 2 (TRAF2) WITH TNF-R2 SYNTHETIC FRAGMENT",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAD",
+    "clashscore": 2.53,
+    "struct_pdbx_descriptors": "RUBREDOXIN (REDUCED)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAM",
+    "clashscore": 2.68,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) MUTANT WITH THR 199 REPLACED BY ALA (T199A) COMPLEX WITH BICARBONATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAH",
+    "clashscore": 3.89,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) (NATIVE ZINC REPLACED BY COBALT) COMPLEX WITH BICARBONATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAO",
+    "clashscore": 3.42,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) COMPLEX WITH HYDROGEN SULFIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAQ",
+    "clashscore": 1.49,
+    "struct_pdbx_descriptors": "STROMELYSIN-1 + DIPHENYL PIPERIDINE SULFONAMIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAJ",
+    "clashscore": 3.41,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) MUTANT WITH GLU 106 REPLACED BY ASP (E106D)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAL",
+    "clashscore": 3.66,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) MUTANT WITH THR 199 REPLACED BY ALA (T199A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAU",
+    "clashscore": 42.38,
+    "struct_pdbx_descriptors": "CANAVALIN (JACK BEAN 7S VICILIN)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAN",
+    "clashscore": 2.18,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) COMPLEX WITH NITRATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAP",
+    "clashscore": 48.19,
+    "struct_pdbx_descriptors": "CAPSULAR POLYSACCHARIDE",
+    "method": "FIBER DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAY",
+    "clashscore": 3.16,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) COMPLEX WITH ACETATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CB0",
+    "clashscore": 1.44,
+    "struct_pdbx_descriptors": "5'-DEOXY-5'-METHYLTHIOADENOSINE PHOSPHORYLASE (E.C.2.4.2.28)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAR",
+    "clashscore": 19.23,
+    "struct_pdbx_descriptors": "IOTA CARRAGEENAN (AN ALTERNATING COPOLYMER OF 3,6-ANHYDRO-ALPHA-D-GALACTOSE SULFATE AND BETA-D-GALACTOSE SULFATE)",
+    "method": "FIBER DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CB2",
+    "clashscore": 2.52,
+    "struct_pdbx_descriptors": "HYDROLASE (O-GLYCOSYL)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CAZ",
+    "clashscore": 0.97,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (E.C.4.2.1.1) MUTANT WITH GLU 106 REPLACED BY GLN (E106Q) COMPLEX WITH ACETATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CB8",
+    "clashscore": 5.96,
+    "struct_pdbx_descriptors": "CHONDROITINASE AC + 5 linked sugars (Rhamnose + alpha-D-mannose + Glucuronic acid + Cyclic-Xylose + methyl-fucose)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBF",
+    "clashscore": 12.45,
+    "struct_pdbx_descriptors": "COBALT-PRECORRIN-4 TRANSMETHYLASE, S-ADENOSYL-L-HOMOCYSTEINE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CB3",
+    "clashscore": 137.5,
+    "struct_pdbx_descriptors": "MOLTEN GLOBULE STATE",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CB5",
+    "clashscore": 9.76,
+    "struct_pdbx_descriptors": "BLEOMYCIN HYDROLASE (E.C.3.4.22.-)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBH",
+    "clashscore": 24.24,
+    "struct_pdbx_descriptors": "C-TERMINAL DOMAIN OF CELLOBIOHYDROLASE I (CT-CBH I) (E.C.3.2.1.91) (NMR, MINIMIZED MEAN STRUCTURE)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CB9",
+    "clashscore": 10.19,
+    "struct_pdbx_descriptors": "CYTOTOXIN 2",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CBG",
+    "clashscore": 4.13,
+    "struct_pdbx_descriptors": "CYANOGENIC BETA-GLUCOSIDASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBN",
+    "clashscore": 2.41,
+    "struct_pdbx_descriptors": "CRAMBIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBQ",
+    "clashscore": 7.11,
+    "struct_pdbx_descriptors": "CELLULAR RETINOIC-ACID-BINDING PROTEIN TYPE II",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBI",
+    "clashscore": 9.99,
+    "struct_pdbx_descriptors": "CELLULAR RETINOIC ACID BINDING PROTEIN I",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBS",
+    "clashscore": 4.01,
+    "struct_pdbx_descriptors": "CELLULAR RETINOIC-ACID-BINDING PROTEIN TYPE II COMPLEXED WITH ALL-TRANS-RETINOIC ACID (THE PRESUMED PHYSIOLOGICAL LIGAND)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBK",
+    "clashscore": 6.25,
+    "struct_pdbx_descriptors": "PYROPHOSPHOKINASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBV",
+    "clashscore": 25.15,
+    "struct_pdbx_descriptors": "FAB (BV04-01) AUTOANTIBODY/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBX",
+    "clashscore": 19.11,
+    "struct_pdbx_descriptors": "CARBOXYPEPTIDASE A (E.C.3.4.17.1) COMPLEX WITH L-BENZYLSUCCINATE INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBO",
+    "clashscore": 4.81,
+    "struct_pdbx_descriptors": "CHOLESTEROL OXIDASE + FLAVIN-ADENINE DINUCLEOTIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBR",
+    "clashscore": 13.63,
+    "struct_pdbx_descriptors": "CELLULAR RETINOIC-ACID-BINDING PROTEIN TYPE I COMPLEXED WITH ALL-TRANS-RETINOIC ACID (THE PRESUMED PHYSIOLOGICAL LIGAND)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CC0",
+    "clashscore": 14.04,
+    "struct_pdbx_descriptors": "transforming protein rhoA/rho GDP dissociation inhibitor alpha Complex",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBU",
+    "clashscore": 36.31,
+    "struct_pdbx_descriptors": "ADENOSYLCOBINAMIDE KINASE/ADENOSYLCOBINAMIDE PHOSPHATE GUANYLYLTRANSFERASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CC2",
+    "clashscore": 4.81,
+    "struct_pdbx_descriptors": "CHOLESTEROL OXIDASE (EC: 1.1.3.6) + FLAVIN-ADENINE DINUCLEOTIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBW",
+    "clashscore": 14.04,
+    "struct_pdbx_descriptors": "BOVINE CHYMOTRYPSIN, BPTI",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CC6",
+    "clashscore": 2.87,
+    "struct_pdbx_descriptors": "P-HYDROXYBENZOATE HYDROXYLASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CBY",
+    "clashscore": 7.45,
+    "struct_pdbx_descriptors": "DELTA-ENDOTOXIN CYTB",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CC1",
+    "clashscore": 6.97,
+    "struct_pdbx_descriptors": "HYDROGENASE (E.C.1.18.99.1)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CC7",
+    "clashscore": 5.1,
+    "struct_pdbx_descriptors": "METALLOCHAPERONE ATX1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CC3",
+    "clashscore": 11.51,
+    "struct_pdbx_descriptors": "CUAAZURIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCB",
+    "clashscore": 6.25,
+    "struct_pdbx_descriptors": "CYTOCHROME C PEROXIDASE (CCP-MKT) (E.C.1.11.1.5) MUTANT WITH ASP 235 REPLACED BY GLU (D235E)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CC5",
+    "clashscore": 68.62,
+    "struct_pdbx_descriptors": "CYTOCHROME C5 (OXIDIZED)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCD",
+    "clashscore": 28.03,
+    "struct_pdbx_descriptors": "CLARA CELL 17-KDA PROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCF",
+    "clashscore": 28.67,
+    "struct_pdbx_descriptors": "COAGULATION FACTOR X (THE CALCIUM FORM OF THE N-TERMINAL EGF-LIKE MODULE) (NMR, 15 STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CCH",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "CYTOCHROME C551 (NMR, MINIMIZED AVERAGE STRUCTURE)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CCA",
+    "clashscore": 2.8,
+    "struct_pdbx_descriptors": "CYTOCHROME C PEROXIDASE (CCP-MKT) (E.C.1.11.1.5) WILD TYPE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCC",
+    "clashscore": 3.88,
+    "struct_pdbx_descriptors": "CYTOCHROME C PEROXIDASE (CCP-MKT) (E.C.1.11.1.5) MUTANT WITH ASP 235 REPLACED BY ALA (D235A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCE",
+    "clashscore": 3.89,
+    "struct_pdbx_descriptors": "CYTOCHROME C PEROXIDASE (E.C.1.11.1.5) (CCP-MKT) MUTANT WITH HIS 175 REPLACED BY GLY (H175G)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCN",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "CRAMBIN (PRO 22/LEU 25) (NMR, MINIMIZED AVERAGE STRUCTURE)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CCG",
+    "clashscore": 3.88,
+    "struct_pdbx_descriptors": "CYTOCHROME C PEROXIDASE (E.C.1.11.1.5) (CCP-MKT) MUTANT WITH HIS 175 REPLACED BY GLY (H175G) COMPLEXED WITH IMIDAZOLE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCS",
+    "clashscore": 14.21,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (CARBONATE DEHYDRATASE, HCA II) (E.C.4.2.1.1) MUTANT WITH THR 199 REPLACED BY ASP (T199D)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCU",
+    "clashscore": 12.94,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (CARBONATE DEHYDRATASE, HCA II) (E.C.4.2.1.1) MUTANT WITH THR 199 REPLACED BY HIS (T199H)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCM",
+    "clashscore": 2.62,
+    "struct_pdbx_descriptors": "CRAMBIN (PRO 22/LEU 25) (NMR, 8 STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CCP",
+    "clashscore": 17.02,
+    "struct_pdbx_descriptors": "YEAST CYTOCHROME C PEROXIDASE (E.C.1.11.1.5)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CD0",
+    "clashscore": 11.2,
+    "struct_pdbx_descriptors": "JTO, A VARIABLE DOMAIN FROM LAMBDA-6 TYPE IMMUNOGLOBULIN LIGHT CHAIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCR",
+    "clashscore": 7.79,
+    "struct_pdbx_descriptors": "CYTOCHROME C",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCT",
+    "clashscore": 14.2,
+    "struct_pdbx_descriptors": "CARBONIC ANHYDRASE II (CARBONATE DEHYDRATASE, HCA II) (E.C.4.2.1.1) MUTANT WITH THR 199 REPLACED BY GLU (T199E)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CD2",
+    "clashscore": 20.85,
+    "struct_pdbx_descriptors": "DIHYDROFOLATE REDUCTASE (E.C.1.5.1.3) + FOLATE + NADP+",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CD5",
+    "clashscore": 9.86,
+    "struct_pdbx_descriptors": "GLUCOSAMINE 6-PHOSPHATE DEAMINASE (E.C.5.3.1.10)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CCZ",
+    "clashscore": 13.94,
+    "struct_pdbx_descriptors": "CD58",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CD9",
+    "clashscore": 10.75,
+    "struct_pdbx_descriptors": "GRANULOCYTE COLONY-STIMULATING FACTOR/G-CSF RECEPTOR COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CD1",
+    "clashscore": 27.51,
+    "struct_pdbx_descriptors": "CD1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDE",
+    "clashscore": 6.15,
+    "struct_pdbx_descriptors": "PHOSPHORIBOSYLGLYCINAMIDE FORMYLTRANSFERASE (E.C.2.1.2.2) (5'-PHOSPHORIBOSYLGLYCINAMIDE TRANSFORMYLASE) COMPLEX WITH GLYCINAMIDE RIBONUCLEOTIDE AND THE INHIBITOR 5-DEAZA-5,6,7,8-TETRAHYDROFOLATE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CD8",
+    "clashscore": 3.9,
+    "struct_pdbx_descriptors": "CD8 (T CELL C0-RECEPTOR, N-TERMINAL 114 RESIDUES)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDH",
+    "clashscore": 45.76,
+    "struct_pdbx_descriptors": "CD4 (D1D2 FRAGMENT) TYPE I CRYSTAL FORM",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDJ",
+    "clashscore": 39.69,
+    "struct_pdbx_descriptors": "T-CELL SURFACE GLYCOPROTEIN CD4",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDB",
+    "clashscore": 1.57,
+    "struct_pdbx_descriptors": "T LYMPHOCYTE ADHESION GLYCOPROTEIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CDL",
+    "clashscore": 17.88,
+    "struct_pdbx_descriptors": "CALMODULIN COMPLEXED WITH CALMODULIN-BINDING PEPTIDE FROM SMOOTH MUSCLE MYOSIN LIGHT CHAIN KINASE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDD",
+    "clashscore": 15.38,
+    "struct_pdbx_descriptors": "PHOSPHORIBOSYLGLYCINAMIDE FORMYLTRANSFERASE (E.C.2.1.2.2) (5'-PHOSPHORIBOSYLGLYCINAMIDE TRANSFORMYLASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDG",
+    "clashscore": 7.1,
+    "struct_pdbx_descriptors": "CYCLODEXTRIN GLYCOSYLTRANSFERASE (E.C.2.4.1.19) (CGTASE)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDP",
+    "clashscore": 6.22,
+    "struct_pdbx_descriptors": "CADMIUM-SUBSTITUTED CALCIUM-BINDING PARVALBUMIN B",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDI",
+    "clashscore": 52.65,
+    "struct_pdbx_descriptors": "CD4 (D1D2 FRAGMENT) TYPE II CRYSTAL FORM",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDK",
+    "clashscore": 6.34,
+    "struct_pdbx_descriptors": "CAMP-DEPENDENT PROTEIN KINASE, PROTEIN KINASE INHIBITOR, PHOSPHOAMINOPHOSPHONIC ACID-ADENYLATE ESTER, MYRISTIC ACID",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDR",
+    "clashscore": 31.55,
+    "struct_pdbx_descriptors": "CD59 COMPLEXED WITH GLCNAC-BETA-1,4-GLCNAC-BETA-1 (NMR, 10 STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CDM",
+    "clashscore": 7.81,
+    "struct_pdbx_descriptors": "CALMODULIN COMPLEXED WITH CALMODULIN-BINDING DOMAIN OF CALMODULIN-DEPENDENT PROTEIN KINASE II",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDW",
+    "clashscore": 9.37,
+    "struct_pdbx_descriptors": "TATA BINDING PROTEIN (TBP)/DNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDO",
+    "clashscore": 4.02,
+    "struct_pdbx_descriptors": "ALCOHOL DEHYDROGENASE, NICOTINAMIDE-ADENINE-DINUCLEOTIDE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4Q",
+    "clashscore": 4.43,
+    "struct_pdbx_descriptors": "SHIGA-LIKE TOXIN I SUBUNIT B MUTANT (F30A,W34A)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDQ",
+    "clashscore": 34.08,
+    "struct_pdbx_descriptors": "COMPLEMENT REGULATORY PROTEIN",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1C4S",
+    "clashscore": 14.81,
+    "struct_pdbx_descriptors": "CHONDROITIN-4-SULFATE (AN ALTERNATING COPOLYMER OF BETA-D-GLUCURONIC ACID AND 2-DEOXY-2-ACETAMIDO-BETA-D-GALACTOSE-4-SULFATE) SODIUM SALT",
+    "method": "FIBER DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDS",
+    "clashscore": 31.72,
+    "struct_pdbx_descriptors": "CD59 COMPLEXED WITH GLCNAC-BETA-1,4-(FUC-ALPHA-1,6)-GLCNAC-BETA-1 (NMR, 10 STRUCTURES)",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CDU",
+    "clashscore": 21.48,
+    "struct_pdbx_descriptors": "T-CELL SURFACE GLYCOPROTEIN",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4U",
+    "clashscore": 54.55,
+    "struct_pdbx_descriptors": "PROTEIN (THROMBIN) (3.4.21.5)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4R",
+    "clashscore": 10.27,
+    "struct_pdbx_descriptors": "NEUREXIN-I BETA",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4T",
+    "clashscore": 12.54,
+    "struct_pdbx_descriptors": "PROTEIN (DIHYDROLIPOAMIDE SUCCINYLTRANSFERASE) (2.3.1.61)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C52",
+    "clashscore": 6.97,
+    "struct_pdbx_descriptors": "CYTOCHROME-C552, PROTOPORPHYRIN IX CONTAINING FE",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4X",
+    "clashscore": 17.36,
+    "struct_pdbx_descriptors": "PROTEIN (2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE) (3.7.1.8)",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C4Z",
+    "clashscore": 37.04,
+    "struct_pdbx_descriptors": "UBIQUITIN-PROTEIN LIGASE E3A, UBIQUITIN CONJUGATING ENZYME E2",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C51",
+    "clashscore": 10.03,
+    "struct_pdbx_descriptors": "COMPLEX OF PHOTOSYSTEM I",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C58",
+    "clashscore": 66.91,
+    "struct_pdbx_descriptors": "CYCLOAMYLOSE 26",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C53",
+    "clashscore": 0.0,
+    "struct_pdbx_descriptors": "CYTOCHROME C553",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1C5A",
+    "clashscore": 2.07,
+    "struct_pdbx_descriptors": "COMPLEMENT FACTOR",
+    "method": "SOLUTION NMR",
+    "size": 0
+  },
+  {
+    "filename": "1CE0",
+    "clashscore": 25.26,
+    "struct_pdbx_descriptors": "LEUCINE ZIPPER MODEL H38-P1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CDZ",
+    "clashscore": 26.02,
+    "struct_pdbx_descriptors": "DNA-REPAIR PROTEIN XRCC1",
+    "method": "X-RAY DIFFRACTION",
+    "size": 0
+  },
+  {
+    "filename": "1CE1",
+    "clashscore": 9.98,
+    "struct_pdbx_descriptors": "FRAGMENT",
     "method": "X-RAY DIFFRACTION",
     "size": 0
   }
